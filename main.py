@@ -91,6 +91,7 @@ class AnimeGame(genshin.Client):
 
     def __init__(self, args: argparse.Namespace, codes: GetCodes):
         self.args = args
+        self.args.lang = 'zh-tw'
         self.codes = codes
         _c = self.args.cookies or os.getenv("COOKIES")
         cookies = json.loads(_c)
@@ -148,7 +149,7 @@ class AnimeGame(genshin.Client):
         )
 
     async def get_hsr_res(self) -> HsrRes:
-        user = await self.get_starrail_user()
+        user = await self.get_starrail_user(lang=self.args.lang)
         diary = await self.get_starrail_diary()
         forgotten_hall = await self.get_starrail_challenge()
         characters = await self.get_starrail_characters()
