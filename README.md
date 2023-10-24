@@ -1,5 +1,5 @@
-<h1 align="center">Joy's Anime Game Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct 24, 2023 21:25 +0700</u></h3>
+<h1 align="center">原神 啟動</h1>
+<h3 align="center">🕒 更新於 <u>Oct 24, 2023 21:55 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -7,24 +7,21 @@
     <img
       src="https://i.pinimg.com/originals/a3/33/85/a3338541288aa31ff713edaf12c99961.png"
       height="20"
-    />
-    Honkai Star Rail Details
+    />星鐵
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="images/profile/5idereal_24_10_2023-21_25_20.png" />
+    <h2>個人檔案</h2>
+    <img src="images/profile/5idereal_24_10_2023-21_53_31.png" />
   </div>
   <div align="center">
-    <h2>
-      <img src="images/icons/hsr_check_in.png" height="20" /> Daily Rewards
-    </h2>
+    <h2><img src="images/icons/hsr_check_in.png" height="20" /> 每日獎勵</h2>
     <table>
       <tr>
-        <td>Total Rewards Claimed</td>
+        <td>已領取總獎勵</td>
         <td>24</td>
       </tr>
       <tr>
-        <td>Last Claimed Reward</td>
+        <td>上次領取獎勵</td>
         <td>
           8000 x
           <img
@@ -43,7 +40,7 @@
         src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
         height="20"
       />
-      Stats
+      統計資料
     </h2>
     <table>
       <tr>
@@ -59,19 +56,18 @@
         <td>352</td>
       </tr>
       <tr>
-        <td>Chests Opened</td>
+        <td>開啟寶箱數</td>
         <td>360</td>
       </tr>
     </table>
   </div>
 
   <div align="center">
-    <h2><img src="images/icons/hsr_diary.png" height="20" /> Diary</h2>
+    <h2><img src="images/icons/hsr_diary.png" height="20" /> 日記</h2>
     <table>
       <tr>
         <td>
-          <img src="images/icons/stellar_jade.png" height="18" /> Stellar Jade
-          earned
+          <img src="images/icons/stellar_jade.png" height="18" />已賺取星瓊數
         </td>
         <td>10998 (rate -22)</td>
       </tr>
@@ -80,38 +76,37 @@
           <img
             src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/a7/Item_Star_Rail_Special_Pass.png"
             height="18"
-          />
-          Pass & Special Pass earned
+          />已賺取通票和專票數
         </td>
         <td>34 (rate -12)</td>
       </tr>
       <tr>
-        <td>Categories</td>
+        <td>類別</td>
         <td>
-          Daily Activity: 3450 (31%)<br />Adventure Rewards: 2645 (24%)<br />Event:
-          1700 (15%)<br />Forgotten Hall: 1400 (12%)<br />Simulated Universe:
-          1090 (9%)<br />Mail: 710 (6%)<br />Other: 3 (3%)<br />
+          每日活躍: 3450 (31%)<br />冒險獎勵: 2645 (24%)<br />活動獎勵: 1700
+          (15%)<br />忘卻之庭獎勵: 1400 (12%)<br />模擬宇宙獎勵: 1090 (9%)<br />郵件獎勵:
+          710 (6%)<br />其他: 3 (3%)<br />
         </td>
       </tr>
     </table>
   </div>
   <div align="center">
-    <h2>Memory of Chaos</h2>
+    <h2>渾沌回憶</h2>
     <table>
       <tr>
-        <td>Season</td>
+        <td>賽季</td>
         <td>1004</td>
       </tr>
       <tr>
-        <td>Max Floor</td>
-        <td>Living and Flaming Catastrophes Stage <unbreak>10</unbreak></td>
+        <td>最深層數</td>
+        <td>生劫火劫其十</td>
       </tr>
       <tr>
-        <td>Total Battles</td>
+        <td>總戰鬥次數</td>
         <td>16</td>
       </tr>
       <tr>
-        <td>Total Stars</td>
+        <td>總星數</td>
         <td>30</td>
       </tr>
     </table>
@@ -122,14 +117,14 @@
         src="https://hsr.honeyhunterworld.com/img/menu/char.webp"
         height="20"
       />
-      Characters
+      角色
     </h2>
     <details open>
-      <summary><b>Trailblazer </b></summary>
+      <summary><b>開拓者 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Trailblazer</h3></th>
+          <th><h3>開拓者</h3></th>
           <th><h3></h3></th>
         </tr>
         <tr>
@@ -148,11 +143,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
@@ -161,53 +156,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>6</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/87bf0f9323b69ad4ae02602d3cd9b472.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wild Wheat Felt Hat<br /><img
+                  快槍手的野穗氈帽<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/5b55c9dbf3abfaa0e5d07579f382cf57.png"
                     ,
                     height="18"
                   />
-                  Thief's Gloves With Prints<br /><img
+                  怪盜的繪紋手套<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d504df7a35c26306264815ddc0ed6f4a.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wind-Hunting Shawl<br /><img
+                  快槍手的獵風披肩<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  快槍手的鉚釘馬靴<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/159025d8df71d1abe637a4df5ce36d61.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Moving City<br /><img
+                  薩爾索圖的移動城市<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6be2a567e59f3cc372c1e90dce85526a.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Terminator Line<br />
+                  薩爾索圖的晨昏界線<br />
                 </td>
               </tr>
             </table>
@@ -215,15 +210,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
+                <td>名稱</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td></td>
               </tr>
             </table>
@@ -232,12 +227,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Bailu </b></summary>
+      <summary><b>白露 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Bailu</h3></th>
-          <th><h3>Post-Op Conversation</h3></th>
+          <th><h3>白露</h3></th>
+          <th><h3>一場術後對話</h3></th>
         </tr>
         <tr>
           <td>
@@ -259,11 +254,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
@@ -272,53 +267,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b11a77fb262d6925895bc646c61ae931.png"
                     ,
                     height="18"
                   />
-                  Passerby's Rejuvenated Wooden Hairstick<br /><img
+                  過客的逢春木簪<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d8183a02e156650c7070fcc51c0ce337.png"
                     ,
                     height="18"
                   />
-                  Passerby's Roaming Dragon Bracer<br /><img
+                  過客的遊龍臂韝<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/73ab9ae76f9d10da9036cb0943315ff7.png"
                     ,
                     height="18"
                   />
-                  Passerby's Ragged Embroided Coat<br /><img
+                  過客的殘繡風衣<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/dffc7aa0ab3b5cd5da41e0db6737b55b.png"
                     ,
                     height="18"
                   />
-                  Passerby's Stygian Hiking Boots<br />
+                  過客的冥途遊履<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
+                  羅浮仙舟的天外樓船<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                  羅浮仙舟的建木枝蔓<br />
                 </td>
               </tr>
             </table>
@@ -326,15 +321,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Post-Op Conversation</td>
+                <td>名稱</td>
+                <td>一場術後對話</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>2</td>
               </tr>
             </table>
@@ -343,12 +338,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Fu Xuan </b></summary>
+      <summary><b>符玄 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Fu Xuan</h3></th>
-          <th><h3>Texture of Memories</h3></th>
+          <th><h3>符玄</h3></th>
+          <th><h3>記憶的質料</h3></th>
         </tr>
         <tr>
           <td>
@@ -370,11 +365,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
@@ -383,53 +378,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8318ee15904846e48e20cc8e48d66db7.png"
                     ,
                     height="18"
                   />
-                  Messenger's Holovisor<br /><img
+                  信使的全像目鏡<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8c940b778a91bce719acd8486e4e18c1.png"
                     ,
                     height="18"
                   />
-                  Messenger's Transformative Arm<br /><img
+                  信使的百變義手<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/49305ad8165d518c50951c04efcb518e.png"
                     ,
                     height="18"
                   />
-                  Disciple's Dewy Feather Garb<br /><img
+                  蒔者的承露羽衣<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1bfbcd142027a49a9e350bfec48202fa.png"
                     ,
                     height="18"
                   />
-                  Disciple's Celestial Silk Sandals<br />
+                  蒔者的天人絲履<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
+                  羅浮仙舟的天外樓船<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                  羅浮仙舟的建木枝蔓<br />
                 </td>
               </tr>
             </table>
@@ -437,15 +432,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Texture of Memories</td>
+                <td>名稱</td>
+                <td>記憶的質料</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>1</td>
               </tr>
             </table>
@@ -454,12 +449,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Luocha </b></summary>
+      <summary><b>羅剎 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Luocha</h3></th>
-          <th><h3>Quid Pro Quo</h3></th>
+          <th><h3>羅剎</h3></th>
+          <th><h3>等價交換</h3></th>
         </tr>
         <tr>
           <td>
@@ -481,11 +476,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
@@ -494,53 +489,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b11a77fb262d6925895bc646c61ae931.png"
                     ,
                     height="18"
                   />
-                  Passerby's Rejuvenated Wooden Hairstick<br /><img
+                  過客的逢春木簪<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d8183a02e156650c7070fcc51c0ce337.png"
                     ,
                     height="18"
                   />
-                  Passerby's Roaming Dragon Bracer<br /><img
+                  過客的遊龍臂韝<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d504df7a35c26306264815ddc0ed6f4a.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wind-Hunting Shawl<br /><img
+                  快槍手的獵風披肩<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  快槍手的鉚釘馬靴<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
+                  羅浮仙舟的天外樓船<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                  羅浮仙舟的建木枝蔓<br />
                 </td>
               </tr>
             </table>
@@ -548,15 +543,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Quid Pro Quo</td>
+                <td>名稱</td>
+                <td>等價交換</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>5</td>
               </tr>
             </table>
@@ -565,12 +560,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Seele </b></summary>
+      <summary><b>希兒 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Seele</h3></th>
-          <th><h3>Cruising in the Stellar Sea</h3></th>
+          <th><h3>希兒</h3></th>
+          <th><h3>星海巡航</h3></th>
         </tr>
         <tr>
           <td>
@@ -592,11 +587,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
@@ -605,53 +600,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ef02377d559dbe794cdf94ebe9d52716.png"
                     ,
                     height="18"
                   />
-                  Genius's Ultraremote Sensing Visor<br /><img
+                  天才的超距遙感<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/25c230f6b5bf1e965fb5d240f6a2b1d7.png"
                     ,
                     height="18"
                   />
-                  Genius's Frequency Catcher<br /><img
+                  天才的頻變捕手<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6032a2c200ab35acf785a1897bc2b214.png"
                     ,
                     height="18"
                   />
-                  Genius's Metafield Suit<br /><img
+                  天才的元域深潛<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f489cfe667db5aee74ad71e7520a5d61.png"
                     ,
                     height="18"
                   />
-                  Genius's Gravity Walker<br />
+                  天才的引力漫步<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/95c9e0a314d1185251917881ca148ac4.png"
                     ,
                     height="18"
                   />
-                  Taikiyan Laser Stadium<br /><img
+                  泰科銨的雷射球場<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/0cc39dc119dd82e3a9ea4839200fde75.png"
                     ,
                     height="18"
                   />
-                  Taikiyan's Arclight Race Track<br />
+                  泰科銨的弧光賽道<br />
                 </td>
               </tr>
             </table>
@@ -659,15 +654,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Cruising in the Stellar Sea</td>
+                <td>名稱</td>
+                <td>星海巡航</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>5</td>
               </tr>
             </table>
@@ -676,12 +671,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Bronya </b></summary>
+      <summary><b>布洛妮婭 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Bronya</h3></th>
-          <th><h3>Past and Future</h3></th>
+          <th><h3>布洛妮婭</h3></th>
+          <th><h3>過往未來</h3></th>
         </tr>
         <tr>
           <td>
@@ -703,11 +698,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
@@ -716,53 +711,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/68ff50d65bd9a4471658b3b3fce63c7c.png"
                     ,
                     height="18"
                   />
-                  Disciple's Prosthetic Eye<br /><img
+                  蒔者的復明義眼<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8c940b778a91bce719acd8486e4e18c1.png"
                     ,
                     height="18"
                   />
-                  Messenger's Transformative Arm<br /><img
+                  信使的百變義手<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/224fcb0f41f664327c5930cddee7b2a9.png"
                     ,
                     height="18"
                   />
-                  Band's Leather Jacket With Studs<br /><img
+                  樂團的釘刺皮衣<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f489cfe667db5aee74ad71e7520a5d61.png"
                     ,
                     height="18"
                   />
-                  Genius's Gravity Walker<br />
+                  天才的引力漫步<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
+                  羅浮仙舟的天外樓船<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                  羅浮仙舟的建木枝蔓<br />
                 </td>
               </tr>
             </table>
@@ -770,15 +765,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Past and Future</td>
+                <td>名稱</td>
+                <td>過往未來</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>5</td>
               </tr>
             </table>
@@ -787,12 +782,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Silver Wolf </b></summary>
+      <summary><b>銀狼 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Silver Wolf</h3></th>
-          <th><h3>Before the Tutorial Mission Starts</h3></th>
+          <th><h3>銀狼</h3></th>
+          <th><h3>新手任務開始前</h3></th>
         </tr>
         <tr>
           <td>
@@ -814,11 +809,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
@@ -827,53 +822,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ef02377d559dbe794cdf94ebe9d52716.png"
                     ,
                     height="18"
                   />
-                  Genius's Ultraremote Sensing Visor<br /><img
+                  天才的超距遙感<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/25c230f6b5bf1e965fb5d240f6a2b1d7.png"
                     ,
                     height="18"
                   />
-                  Genius's Frequency Catcher<br /><img
+                  天才的頻變捕手<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6032a2c200ab35acf785a1897bc2b214.png"
                     ,
                     height="18"
                   />
-                  Genius's Metafield Suit<br /><img
+                  天才的元域深潛<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f489cfe667db5aee74ad71e7520a5d61.png"
                     ,
                     height="18"
                   />
-                  Genius's Gravity Walker<br />
+                  天才的引力漫步<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/775964725115b06342a2202de18e097b.png"
                     ,
                     height="18"
                   />
-                  Vonwacq's Island of Birth<br /><img
+                  翁瓦克的誕生之島<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/e5c9365b8dd98ffd4ce9e3b5ec6e9b29.png"
                     ,
                     height="18"
                   />
-                  Vonwacq's Islandic Coast<br />
+                  翁瓦克的環島海岸<br />
                 </td>
               </tr>
             </table>
@@ -881,15 +876,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Before the Tutorial Mission Starts</td>
+                <td>名稱</td>
+                <td>新手任務開始前</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>5</td>
               </tr>
             </table>
@@ -898,12 +893,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Kafka </b></summary>
+      <summary><b>卡芙卡 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Kafka</h3></th>
-          <th><h3>Good Night and Sleep Well</h3></th>
+          <th><h3>卡芙卡</h3></th>
+          <th><h3>晚安與睡顏</h3></th>
         </tr>
         <tr>
           <td>
@@ -925,11 +920,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
@@ -938,53 +933,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/bd1b7d6fa1db9d2cd9cf4ea519f6cac8.png"
                     ,
                     height="18"
                   />
-                  Band's Polarized Sunglasses<br /><img
+                  樂團的偏光墨鏡<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d9ad04ac51bf76ec91c71ed8997ec568.png"
                     ,
                     height="18"
                   />
-                  Band's Touring Bracelet<br /><img
+                  樂團的巡演手繩<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/224fcb0f41f664327c5930cddee7b2a9.png"
                     ,
                     height="18"
                   />
-                  Band's Leather Jacket With Studs<br /><img
+                  樂團的釘刺皮衣<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4a2aa525ffbaa1e8203f6eb574710b96.png"
                     ,
                     height="18"
                   />
-                  Band's Ankle Boots With Rivets<br />
+                  樂團的鉚釘短靴<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/09dc4b95569f0fbbf85ca7a7fae70a41.png"
                     ,
                     height="18"
                   />
-                  Herta's Space Station<br /><img
+                  「黑塔」的太空站<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2fa18aacdfbd1a8c89913a458fe09b10.png"
                     ,
                     height="18"
                   />
-                  Herta's Wandering Trek<br />
+                  「黑塔」的漫歷軌跡<br />
                 </td>
               </tr>
             </table>
@@ -992,15 +987,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Good Night and Sleep Well</td>
+                <td>名稱</td>
+                <td>晚安與睡顏</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>4</td>
               </tr>
             </table>
@@ -1009,12 +1004,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Sushang </b></summary>
+      <summary><b>素裳 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Sushang</h3></th>
-          <th><h3>Swordplay</h3></th>
+          <th><h3>素裳</h3></th>
+          <th><h3>論劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -1036,11 +1031,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
@@ -1049,53 +1044,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>6</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ebbf9487c277ab725ec4e47895bb019d.png"
                     ,
                     height="18"
                   />
-                  Champion's Headgear<br /><img
+                  拳王的冠軍護頭<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/5b55c9dbf3abfaa0e5d07579f382cf57.png"
                     ,
                     height="18"
                   />
-                  Thief's Gloves With Prints<br /><img
+                  怪盜的繪紋手套<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ced74c8f12364c93519c3ae03c337e66.png"
                     ,
                     height="18"
                   />
-                  Thief's Steel Grappling Hook<br /><img
+                  怪盜的纖鋼爪鉤<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/906e01e4c3d9df89ee0ccf105a25fe8a.png"
                     ,
                     height="18"
                   />
-                  Champion's Fleetfoot Boots<br />
+                  拳王的弧步戰靴<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/159025d8df71d1abe637a4df5ce36d61.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Moving City<br /><img
+                  薩爾索圖的移動城市<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6be2a567e59f3cc372c1e90dce85526a.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Terminator Line<br />
+                  薩爾索圖的晨昏界線<br />
                 </td>
               </tr>
             </table>
@@ -1103,15 +1098,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Swordplay</td>
+                <td>名稱</td>
+                <td>論劍</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>2</td>
               </tr>
             </table>
@@ -1120,12 +1115,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Qingque </b></summary>
+      <summary><b>青雀 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Qingque</h3></th>
-          <th><h3>Night on the Milky Way</h3></th>
+          <th><h3>青雀</h3></th>
+          <th><h3>銀河鐵道之夜</h3></th>
         </tr>
         <tr>
           <td>
@@ -1147,11 +1142,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
@@ -1160,53 +1155,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>5</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ef02377d559dbe794cdf94ebe9d52716.png"
                     ,
                     height="18"
                   />
-                  Genius's Ultraremote Sensing Visor<br /><img
+                  天才的超距遙感<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/25c230f6b5bf1e965fb5d240f6a2b1d7.png"
                     ,
                     height="18"
                   />
-                  Genius's Frequency Catcher<br /><img
+                  天才的頻變捕手<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6032a2c200ab35acf785a1897bc2b214.png"
                     ,
                     height="18"
                   />
-                  Genius's Metafield Suit<br /><img
+                  天才的元域深潛<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f489cfe667db5aee74ad71e7520a5d61.png"
                     ,
                     height="18"
                   />
-                  Genius's Gravity Walker<br />
+                  天才的引力漫步<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/159025d8df71d1abe637a4df5ce36d61.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Moving City<br /><img
+                  薩爾索圖的移動城市<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6be2a567e59f3cc372c1e90dce85526a.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Terminator Line<br />
+                  薩爾索圖的晨昏界線<br />
                 </td>
               </tr>
             </table>
@@ -1214,15 +1209,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Night on the Milky Way</td>
+                <td>名稱</td>
+                <td>銀河鐵道之夜</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>1</td>
               </tr>
             </table>
@@ -1231,12 +1226,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Luka </b></summary>
+      <summary><b>盧卡 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Luka</h3></th>
-          <th><h3>Fermata</h3></th>
+          <th><h3>盧卡</h3></th>
+          <th><h3>延長記號</h3></th>
         </tr>
         <tr>
           <td>
@@ -1258,11 +1253,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
@@ -1271,53 +1266,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ebbf9487c277ab725ec4e47895bb019d.png"
                     ,
                     height="18"
                   />
-                  Champion's Headgear<br /><img
+                  拳王的冠軍護頭<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/eac4171dc524f344d76efc0c5a59aeb9.png"
                     ,
                     height="18"
                   />
-                  Champion's Heavy Gloves<br /><img
+                  拳王的重炮拳套<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/10ca776caa662dfb40c6d8fd9ac1f206.png"
                     ,
                     height="18"
                   />
-                  Champion's Chest Guard<br /><img
+                  拳王的貼身護胸<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/906e01e4c3d9df89ee0ccf105a25fe8a.png"
                     ,
                     height="18"
                   />
-                  Champion's Fleetfoot Boots<br />
+                  拳王的弧步戰靴<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/09dc4b95569f0fbbf85ca7a7fae70a41.png"
                     ,
                     height="18"
                   />
-                  Herta's Space Station<br /><img
+                  「黑塔」的太空站<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2fa18aacdfbd1a8c89913a458fe09b10.png"
                     ,
                     height="18"
                   />
-                  Herta's Wandering Trek<br />
+                  「黑塔」的漫歷軌跡<br />
                 </td>
               </tr>
             </table>
@@ -1325,15 +1320,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Fermata</td>
+                <td>名稱</td>
+                <td>延長記號</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>3</td>
               </tr>
             </table>
@@ -1342,11 +1337,11 @@
       </table>
     </details>
     <details>
-      <summary><b>Lynx </b></summary>
+      <summary><b>玲可 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Lynx</h3></th>
+          <th><h3>玲可</h3></th>
           <th><h3></h3></th>
         </tr>
         <tr>
@@ -1365,11 +1360,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/quantum-damage_type_icon_50.webp"
@@ -1378,15 +1373,15 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td></td>
               </tr>
             </table>
@@ -1394,15 +1389,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
+                <td>名稱</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td></td>
               </tr>
             </table>
@@ -1411,12 +1406,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Pela </b></summary>
+      <summary><b>佩拉 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Pela</h3></th>
-          <th><h3>Resolution Shines As Pearls of Sweat</h3></th>
+          <th><h3>佩拉</h3></th>
+          <th><h3>決心如汗珠般閃耀</h3></th>
         </tr>
         <tr>
           <td>
@@ -1438,11 +1433,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
@@ -1451,53 +1446,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>6</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/87bf0f9323b69ad4ae02602d3cd9b472.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wild Wheat Felt Hat<br /><img
+                  快槍手的野穗氈帽<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/56efca6c97c906d8e0fe507f874354e4.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
+                  快槍手的粗革手套<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d504df7a35c26306264815ddc0ed6f4a.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Wind-Hunting Shawl<br /><img
+                  快槍手的獵風披肩<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  快槍手的鉚釘馬靴<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/775964725115b06342a2202de18e097b.png"
                     ,
                     height="18"
                   />
-                  Vonwacq's Island of Birth<br /><img
+                  翁瓦克的誕生之島<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/e5c9365b8dd98ffd4ce9e3b5ec6e9b29.png"
                     ,
                     height="18"
                   />
-                  Vonwacq's Islandic Coast<br />
+                  翁瓦克的環島海岸<br />
                 </td>
               </tr>
             </table>
@@ -1505,15 +1500,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Resolution Shines As Pearls of Sweat</td>
+                <td>名稱</td>
+                <td>決心如汗珠般閃耀</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>1</td>
               </tr>
             </table>
@@ -1522,12 +1517,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Asta </b></summary>
+      <summary><b>艾絲妲 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Asta</h3></th>
-          <th><h3>Dance! Dance! Dance!</h3></th>
+          <th><h3>艾絲妲</h3></th>
+          <th><h3>舞！舞！舞！</h3></th>
         </tr>
         <tr>
           <td>
@@ -1549,11 +1544,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
@@ -1562,53 +1557,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8318ee15904846e48e20cc8e48d66db7.png"
                     ,
                     height="18"
                   />
-                  Messenger's Holovisor<br /><img
+                  信使的全像目鏡<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8c940b778a91bce719acd8486e4e18c1.png"
                     ,
                     height="18"
                   />
-                  Messenger's Transformative Arm<br /><img
+                  信使的百變義手<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ef3248255b3cb430865e5dcdfe32b28f.png"
                     ,
                     height="18"
                   />
-                  Messenger's Secret Satchel<br /><img
+                  信使的密信單肩包<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/fd3ca655e59b8f41675451200c0f9c3e.png"
                     ,
                     height="18"
                   />
-                  Messenger's Par-kool Sneakers<br />
+                  信使的酷跑板鞋<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Celestial Ark<br /><img
+                  羅浮仙舟的天外樓船<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                  羅浮仙舟的建木枝蔓<br />
                 </td>
               </tr>
             </table>
@@ -1616,15 +1611,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Dance! Dance! Dance!</td>
+                <td>名稱</td>
+                <td>舞！舞！舞！</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>3</td>
               </tr>
             </table>
@@ -1633,12 +1628,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Dan Heng </b></summary>
+      <summary><b>丹恆 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Dan Heng</h3></th>
-          <th><h3>Only Silence Remains</h3></th>
+          <th><h3>丹恆</h3></th>
+          <th><h3>唯有沉默</h3></th>
         </tr>
         <tr>
           <td>
@@ -1660,11 +1655,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
@@ -1673,53 +1668,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4f502bed64101e58c35e1d4620988d79.png"
                     ,
                     height="18"
                   />
-                  Eagle's Beaked Helmet<br /><img
+                  翔鷹的長喙頭盔<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/56efca6c97c906d8e0fe507f874354e4.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br /><img
+                  快槍手的粗革手套<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/3e0bb26c292f5bce863296450cbcfca5.png"
                     ,
                     height="18"
                   />
-                  Eagle's Winged Suit Harness<br /><img
+                  翔鷹的翼裝束帶<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Rivets Riding Boots<br />
+                  快槍手的鉚釘馬靴<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/159025d8df71d1abe637a4df5ce36d61.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Moving City<br /><img
+                  薩爾索圖的移動城市<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6be2a567e59f3cc372c1e90dce85526a.png"
                     ,
                     height="18"
                   />
-                  Salsotto's Terminator Line<br />
+                  薩爾索圖的晨昏界線<br />
                 </td>
               </tr>
             </table>
@@ -1727,15 +1722,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Only Silence Remains</td>
+                <td>名稱</td>
+                <td>唯有沉默</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>2</td>
               </tr>
             </table>
@@ -1744,12 +1739,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Gepard </b></summary>
+      <summary><b>傑帕德 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Gepard</h3></th>
-          <th><h3>Day One of My New Life</h3></th>
+          <th><h3>傑帕德</h3></th>
+          <th><h3>餘生的第一天</h3></th>
         </tr>
         <tr>
           <td>
@@ -1771,11 +1766,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
@@ -1784,53 +1779,53 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>70</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a5e6713084c378f6f9d622ef08309909.png"
                     ,
                     height="18"
                   />
-                  Knight's Forgiving Casque<br /><img
+                  聖騎的寬恕盔面<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1d70e2157486cda37c93fa53bc696c6b.png"
                     ,
                     height="18"
                   />
-                  Knight's Silent Oath Ring<br /><img
+                  聖騎的沉默誓環<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4f29e53fcddf70cec20b3808a946fe13.png"
                     ,
                     height="18"
                   />
-                  Knight's Solemn Breastplate<br /><img
+                  聖騎的肅穆胸甲<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/bed9e7435755032e24ff929d2e619054.png"
                     ,
                     height="18"
                   />
-                  Knight's Iron Boots of Order<br />
+                  聖騎的秩序鐵靴<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/26a9f781c631202e087a6e18039438db.png"
                     ,
                     height="18"
                   />
-                  Belobog's Fortress of Preservation<br /><img
+                  貝洛伯格的存護堡壘<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/dc2625da18cc7faf688cbb69e1f1f400.png"
                     ,
                     height="18"
                   />
-                  Belobog's Iron Defense<br />
+                  貝洛伯格的鐵衛防線<br />
                 </td>
               </tr>
             </table>
@@ -1838,15 +1833,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Day One of My New Life</td>
+                <td>名稱</td>
+                <td>餘生的第一天</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>70</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>2</td>
               </tr>
             </table>
@@ -1855,12 +1850,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Natasha </b></summary>
+      <summary><b>娜塔莎 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Natasha</h3></th>
-          <th><h3>Multiplication</h3></th>
+          <th><h3>娜塔莎</h3></th>
+          <th><h3>蕃息</h3></th>
         </tr>
         <tr>
           <td>
@@ -1882,11 +1877,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/physical-damage_type_icon_50.webp"
@@ -1895,38 +1890,38 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>59</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>6</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/62c63f7d7a254a33175d6965fb4118cd.png"
                     ,
                     height="18"
                   />
-                  Thief's Myriad-Faced Mask<br /><img
+                  怪盜的千人假面<br /><img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/56efca6c97c906d8e0fe507f874354e4.png"
                     ,
                     height="18"
                   />
-                  Musketeer's Coarse Leather Gloves<br />
+                  快槍手的粗革手套<br />
                 </td>
               </tr>
               <tr>
-                <td>Planar</td>
+                <td>飾品</td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
                     ,
                     height="18"
                   />
-                  The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+                  羅浮仙舟的建木枝蔓<br />
                 </td>
               </tr>
             </table>
@@ -1934,15 +1929,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Multiplication</td>
+                <td>名稱</td>
+                <td>蕃息</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>1</td>
               </tr>
             </table>
@@ -1951,12 +1946,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Hook </b></summary>
+      <summary><b>虎克 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Hook</h3></th>
-          <th><h3>A Secret Vow</h3></th>
+          <th><h3>虎克</h3></th>
+          <th><h3>秘密誓心</h3></th>
         </tr>
         <tr>
           <td>
@@ -1978,11 +1973,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
@@ -1991,15 +1986,15 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>6</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td></td>
               </tr>
             </table>
@@ -2007,15 +2002,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>A Secret Vow</td>
+                <td>名稱</td>
+                <td>秘密誓心</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>20</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>2</td>
               </tr>
             </table>
@@ -2024,11 +2019,11 @@
       </table>
     </details>
     <details>
-      <summary><b>Herta </b></summary>
+      <summary><b>黑塔 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Herta</h3></th>
+          <th><h3>黑塔</h3></th>
           <th><h3></h3></th>
         </tr>
         <tr>
@@ -2047,11 +2042,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
@@ -2060,15 +2055,15 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>5</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td></td>
               </tr>
             </table>
@@ -2076,15 +2071,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
+                <td>名稱</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td></td>
               </tr>
             </table>
@@ -2093,12 +2088,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Serval </b></summary>
+      <summary><b>希露瓦 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Serval</h3></th>
-          <th><h3>Sagacity</h3></th>
+          <th><h3>希露瓦</h3></th>
+          <th><h3>睿見</h3></th>
         </tr>
         <tr>
           <td>
@@ -2120,11 +2115,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
@@ -2133,15 +2128,15 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>30</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>6</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td></td>
               </tr>
             </table>
@@ -2149,15 +2144,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Sagacity</td>
+                <td>名稱</td>
+                <td>睿見</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>1</td>
               </tr>
             </table>
@@ -2166,12 +2161,12 @@
       </table>
     </details>
     <details>
-      <summary><b>March 7th </b></summary>
+      <summary><b>三月七 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>March 7th</h3></th>
-          <th><h3>Amber</h3></th>
+          <th><h3>三月七</h3></th>
+          <th><h3>琥珀</h3></th>
         </tr>
         <tr>
           <td>
@@ -2193,11 +2188,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
@@ -2206,15 +2201,15 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>25</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>3</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td></td>
               </tr>
             </table>
@@ -2222,15 +2217,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Amber</td>
+                <td>名稱</td>
+                <td>琥珀</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td>1</td>
               </tr>
             </table>
@@ -2239,11 +2234,11 @@
       </table>
     </details>
     <details>
-      <summary><b>Himeko </b></summary>
+      <summary><b>姬子 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Himeko</h3></th>
+          <th><h3>姬子</h3></th>
           <th><h3></h3></th>
         </tr>
         <tr>
@@ -2262,11 +2257,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
@@ -2275,15 +2270,15 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>20</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td></td>
               </tr>
             </table>
@@ -2291,15 +2286,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
+                <td>名稱</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td></td>
               </tr>
             </table>
@@ -2308,11 +2303,11 @@
       </table>
     </details>
     <details>
-      <summary><b>Yukong </b></summary>
+      <summary><b>馭空 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Yukong</h3></th>
+          <th><h3>馭空</h3></th>
           <th><h3></h3></th>
         </tr>
         <tr>
@@ -2331,11 +2326,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/imaginary-damage_type_icon_50.webp"
@@ -2344,15 +2339,15 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>20</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td></td>
               </tr>
             </table>
@@ -2360,15 +2355,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
+                <td>名稱</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td></td>
               </tr>
             </table>
@@ -2377,11 +2372,11 @@
       </table>
     </details>
     <details>
-      <summary><b>Tingyun </b></summary>
+      <summary><b>停雲 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Tingyun</h3></th>
+          <th><h3>停雲</h3></th>
           <th><h3></h3></th>
         </tr>
         <tr>
@@ -2400,11 +2395,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
@@ -2413,15 +2408,15 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>20</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td></td>
               </tr>
             </table>
@@ -2429,15 +2424,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
+                <td>名稱</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td></td>
               </tr>
             </table>
@@ -2446,11 +2441,11 @@
       </table>
     </details>
     <details>
-      <summary><b>Sampo </b></summary>
+      <summary><b>桑博 </b></summary>
       <br />
       <table>
         <tr>
-          <th><h3>Sampo</h3></th>
+          <th><h3>桑博</h3></th>
           <th><h3></h3></th>
         </tr>
         <tr>
@@ -2469,11 +2464,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://hsr.honeyhunterworld.com/img/damage_type/wind-damage_type_icon_50.webp"
@@ -2482,15 +2477,15 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>20</td>
               </tr>
               <tr>
-                <td>Eidolon</td>
+                <td>星魂</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Relics</td>
+                <td>遺器</td>
                 <td></td>
               </tr>
             </table>
@@ -2498,15 +2493,15 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
+                <td>名稱</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td></td>
               </tr>
               <tr>
-                <td>Superimpose</td>
+                <td>疊影</td>
                 <td></td>
               </tr>
             </table>
@@ -2519,23 +2514,23 @@
 <details align="center">
   <summary>
     <img src="https://img.icons8.com/?size=20&id=lhMu5buYsjBC&format=png" />
-    Genshin Impact Details
+    原神
   </summary>
   <div align="center">
-    <h2>Profile</h2>
-    <img src="images/profile/genshin_profile_24_10_2023-21_24_49.png" />
+    <h2>個人檔案</h2>
+    <img src="images/profile/genshin_profile_24_10_2023-21_55_04.png" />
   </div>
   <div align="center">
     <h2>
-      <img src="images/icons/genshin_check_in.png" height="20" /> Daily Rewards
+      <img src="images/icons/genshin_check_in.png" height="20" /> 每日獎勵
     </h2>
     <table>
       <tr>
-        <td>Total Rewards Claimed</td>
+        <td>已領取總獎勵</td>
         <td>24</td>
       </tr>
       <tr>
-        <td>Last Claimed Reward</td>
+        <td>上次領取獎勵</td>
         <td>
           5000 x
           <img
@@ -2554,31 +2549,31 @@
         src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp"
         height="20"
       />
-      Stats
+      統計資料
     </h2>
     <table>
       <tr>
-        <td>Achievements</td>
+        <td>成就達成數</td>
         <td>796</td>
       </tr>
       <tr>
-        <td>Days Active</td>
+        <td>活躍天數</td>
         <td>337</td>
       </tr>
       <tr>
-        <td>Characters</td>
+        <td>Ta的角色</td>
         <td>47</td>
       </tr>
       <tr>
-        <td>Waypoints Unlocked</td>
+        <td>解鎖傳送點</td>
         <td>371</td>
       </tr>
       <tr>
-        <td>Anemoculi</td>
+        <td>風神瞳</td>
         <td>65</td>
       </tr>
       <tr>
-        <td>Geoculi</td>
+        <td>岩神瞳</td>
         <td>130</td>
       </tr>
       <tr>
@@ -2586,7 +2581,7 @@
         <td>241</td>
       </tr>
       <tr>
-        <td>Electroculi</td>
+        <td>雷神瞳</td>
         <td>162</td>
       </tr>
       <tr>
@@ -2594,27 +2589,27 @@
         <td>109</td>
       </tr>
       <tr>
-        <td>Common Chests Opened</td>
+        <td>普通的寶箱數</td>
         <td>1980</td>
       </tr>
       <tr>
-        <td>Exquisite Chests Opened</td>
+        <td>精緻的寶箱數</td>
         <td>1401</td>
       </tr>
       <tr>
-        <td>Precious Chests Opened</td>
+        <td>珍貴的寶箱數</td>
         <td>435</td>
       </tr>
       <tr>
-        <td>Luxurious Chests Opened</td>
+        <td>華麗的寶箱數</td>
         <td>159</td>
       </tr>
       <tr>
-        <td>Remarkable Chests Opened</td>
+        <td>奇饋寶箱數</td>
         <td>159</td>
       </tr>
       <tr>
-        <td>Domains Unlocked</td>
+        <td>解鎖秘境</td>
         <td>54</td>
       </tr>
     </table>
@@ -2626,19 +2621,19 @@
         src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp"
         height="20"
       />
-      Exploration
+      探索
     </h2>
     <table>
       <tr>
-        <th>Fontaine</th>
-        <th>Sumeru</th>
-        <th>The Chasm: Underground Mines</th>
-        <th>The Chasm</th>
-        <th>Enkanomiya</th>
-        <th>Inazuma</th>
-        <th>Dragonspine</th>
-        <th>Liyue</th>
-        <th>Mondstadt</th>
+        <th>楓丹</th>
+        <th>須彌</th>
+        <th>層岩巨淵·地下礦區</th>
+        <th>層岩巨淵</th>
+        <th>淵下宮</th>
+        <th>稻妻</th>
+        <th>龍脊雪山</th>
+        <th>璃月</th>
+        <th>蒙德</th>
       </tr>
       <tr>
         <td>
@@ -2718,7 +2713,7 @@
         <td>
           <table>
             <tr>
-              <td>Explored</td>
+              <td>已探索</td>
               <td>
                 <img src="https://progress-bar.dev/45/" width="80" />
               </td>
@@ -2732,7 +2727,7 @@
         <td>
           <table>
             <tr>
-              <td>Explored</td>
+              <td>已探索</td>
               <td>
                 <img src="https://progress-bar.dev/85/" width="80" />
               </td>
@@ -2746,7 +2741,7 @@
         <td>
           <table>
             <tr>
-              <td>Explored</td>
+              <td>已探索</td>
               <td>
                 <img src="https://progress-bar.dev/88/" width="80" />
               </td>
@@ -2760,7 +2755,7 @@
         <td>
           <table>
             <tr>
-              <td>Explored</td>
+              <td>已探索</td>
               <td>
                 <img src="https://progress-bar.dev/92/" width="80" />
               </td>
@@ -2774,7 +2769,7 @@
         <td>
           <table>
             <tr>
-              <td>Explored</td>
+              <td>已探索</td>
               <td>
                 <img src="https://progress-bar.dev/86/" width="80" />
               </td>
@@ -2788,7 +2783,7 @@
         <td>
           <table>
             <tr>
-              <td>Explored</td>
+              <td>已探索</td>
               <td>
                 <img src="https://progress-bar.dev/91/" width="80" />
               </td>
@@ -2802,7 +2797,7 @@
         <td>
           <table>
             <tr>
-              <td>Explored</td>
+              <td>已探索</td>
               <td>
                 <img src="https://progress-bar.dev/81/" width="80" />
               </td>
@@ -2816,7 +2811,7 @@
         <td>
           <table>
             <tr>
-              <td>Explored</td>
+              <td>已探索</td>
               <td>
                 <img src="https://progress-bar.dev/94/" width="80" />
               </td>
@@ -2830,7 +2825,7 @@
         <td>
           <table>
             <tr>
-              <td>Explored</td>
+              <td>已探索</td>
               <td>
                 <img src="https://progress-bar.dev/96/" width="80" />
               </td>
@@ -2850,23 +2845,23 @@
         src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp"
         height="20"
       />
-      Teapot
+      塵歌壺
     </h2>
     <table>
       <tr>
-        <td>Level</td>
+        <td>等級</td>
         <td>10</td>
       </tr>
       <tr>
-        <td>Comfort</td>
-        <td>Fit for a King (20040)</td>
+        <td>仙力</td>
+        <td>貝闕珠宮 (20040)</td>
       </tr>
       <tr>
-        <td>Items</td>
+        <td>家具</td>
         <td>867</td>
       </tr>
       <tr>
-        <td>Visitors</td>
+        <td>訪客</td>
         <td>1</td>
       </tr>
     </table>
@@ -2877,114 +2872,114 @@
         src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
         height="20"
       />
-      Spiral Abyss
+      深淵
     </h2>
     <table>
       <tr>
-        <td>Season</td>
+        <td>賽季</td>
         <td>79</td>
       </tr>
       <tr>
-        <td>Total Battles</td>
+        <td>總戰鬥次數</td>
         <td>11</td>
       </tr>
       <tr>
-        <td>Total Wins</td>
+        <td>總勝場</td>
         <td>9</td>
       </tr>
       <tr>
-        <td>Max Floor</td>
+        <td>最深層數</td>
         <td>11-3</td>
       </tr>
       <tr>
-        <td>Total Stars</td>
+        <td>總星數</td>
         <td>27</td>
       </tr>
       <tr>
-        <td>Most Played Characters</td>
+        <td>出戰次數</td>
         <td>
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
             ,
             height="18"
           />
-          Xiangling (9)<br /><img
+          香菱 (9)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
             ,
             height="18"
           />
-          Xingqiu (9)<br /><img
+          行秋 (9)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
-          Bennett (9)<br /><img
+          班尼特 (9)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Raiden Shogun (9)<br />
+          雷電將軍 (9)<br />
         </td>
       </tr>
       <tr>
-        <td>Most Defeats</td>
+        <td>最多擊破數</td>
         <td>
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nilou.png"
             ,
             height="18"
           />
-          Nilou (32)<br />
+          妮露 (32)<br />
         </td>
       </tr>
       <tr>
-        <td>Strongest Single Strike</td>
+        <td>最強一擊</td>
         <td>
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Raiden Shogun (119572)<br />
+          雷電將軍 (119572)<br />
         </td>
       </tr>
       <tr>
-        <td>Most Damage Taken</td>
+        <td>承受最多傷害</td>
         <td>
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
           />
-          Raiden Shogun (89579)<br />
+          雷電將軍 (89579)<br />
         </td>
       </tr>
       <tr>
-        <td>Elemental Bursts Unleashed</td>
+        <td>元素爆發施放次數</td>
         <td>
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
-          Bennett (20)<br />
+          班尼特 (20)<br />
         </td>
       </tr>
       <tr>
-        <td>Elemental Skills Cast</td>
+        <td>元素戰技施放次數</td>
         <td>
           <img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
             ,
             height="18"
           />
-          Bennett (38)<br />
+          班尼特 (38)<br />
         </td>
       </tr>
     </table>
   </div>
   <div align="center">
-    <h2><img src="images/icons/genshin_diary.png" height="20" /> Diary</h2>
+    <h2><img src="images/icons/genshin_diary.png" height="20" /> 日記</h2>
     <table>
       <tr>
         <td>
@@ -2992,7 +2987,7 @@
             src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png"
             height="18"
           />
-          Primogems earned
+          已賺取原石數
         </td>
         <td>5417 (rate -31)</td>
       </tr>
@@ -3002,16 +2997,16 @@
             src="https://genshin.honeyhunterworld.com/img/i_2001_35.webp"
             height="18"
           />
-          Mora earned
+          已賺取摩拉數
         </td>
         <td>5181123 (rate -10)</td>
       </tr>
       <tr>
-        <td>Categories</td>
+        <td>類別</td>
         <td>
-          Events: 1750 (33%)<br />Daily Activity: 1220 (23%)<br />Mail: 690
-          (13%)<br />Quests: 620 (11%)<br />Adventure: 555 (10%)<br />Spiral
-          Abyss: 450 (8%)<br />Other: 132 (2%)<br />
+          活動: 1750 (33%)<br />每日活躍: 1220 (23%)<br />信件: 690 (13%)<br />任務:
+          620 (11%)<br />冒險: 555 (10%)<br />深境螺旋: 450 (8%)<br />其他: 132
+          (2%)<br />
         </td>
       </tr>
     </table>
@@ -3023,15 +3018,15 @@
         src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp"
         height="20"
       />
-      Characters
+      角色
     </h2>
     <details open>
-      <summary><b>Raiden Shogun</b></summary>
+      <summary><b>雷電將軍</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Raiden Shogun</h3></th>
-          <th><h3 align="center">"The Catch"</h3></th>
+          <th><h3 align="center">雷電將軍</h3></th>
+          <th><h3 align="center">「漁獲」</h3></th>
         </tr>
         <tr>
           <td>
@@ -3055,11 +3050,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
@@ -3068,48 +3063,45 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Emblem of Severed Fate<br />1 x Deepwood
-                  Memories<br />
-                </td>
+                <td>聖遺物<br />4 x 絕緣之旗印<br />1 x 深林的記憶<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
                     height="18"
                   />
-                  Magnificent Tsuba<br /><img
+                  明威之鐔<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
                     height="18"
                   />
-                  Sundered Feather<br /><img
+                  切落之羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
                     height="18"
                   />
-                  Storm Cage<br /><img
+                  雷雲之籠<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/417883235f38883a268a45ffe1e65af3.png"
                     height="18"
                   />
-                  Lamp of the Lost<br /><img
+                  迷誤者之燈<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/394f8bd051d08e35672d537087714a14.png"
                     height="18"
                   />
-                  Ornate Kabuto<br />
+                  華飾之兜<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -3117,19 +3109,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>"The Catch"</td>
+                <td>名稱</td>
+                <td>「漁獲」</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>5</td>
               </tr>
             </table>
@@ -3138,12 +3130,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Yelan</b></summary>
+      <summary><b>夜蘭</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Yelan</h3></th>
-          <th><h3 align="center">Favonius Warbow</h3></th>
+          <th><h3 align="center">夜蘭</h3></th>
+          <th><h3 align="center">西風獵弓</h3></th>
         </tr>
         <tr>
           <td>
@@ -3167,11 +3159,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
@@ -3180,48 +3172,47 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />4 x Emblem of Severed Fate<br />1 x Gladiator's
-                  Finale<br />
+                  聖遺物<br />4 x 絕緣之旗印<br />1 x 角鬥士的終幕禮<br />
                 </td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
                     height="18"
                   />
-                  Magnificent Tsuba<br /><img
+                  明威之鐔<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
                     height="18"
                   />
-                  Sundered Feather<br /><img
+                  切落之羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
                     height="18"
                   />
-                  Storm Cage<br /><img
+                  雷雲之籠<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/272d8252883e66d5a353455bcf8509ba.png"
                     height="18"
                   />
-                  Gladiator's Intoxication<br /><img
+                  角鬥士的酣醉<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/394f8bd051d08e35672d537087714a14.png"
                     height="18"
                   />
-                  Ornate Kabuto<br />
+                  華飾之兜<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -3229,19 +3220,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Favonius Warbow</td>
+                <td>名稱</td>
+                <td>西風獵弓</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -3250,12 +3241,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Nilou</b></summary>
+      <summary><b>妮露</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Nilou</h3></th>
-          <th><h3 align="center">Sapwood Blade</h3></th>
+          <th><h3 align="center">妮露</h3></th>
+          <th><h3 align="center">原木刀</h3></th>
         </tr>
         <tr>
           <td>
@@ -3279,11 +3270,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
@@ -3292,48 +3283,48 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Wanderer's Troupe<br />1 x Maiden
-                  Beloved<br />2 x Tenacity of the Millelith<br />
+                  聖遺物<br />2 x 流浪大地的樂團<br />1 x 被憐愛的少女<br />2 x
+                  千岩牢固<br />
                 </td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/76f85673a23bb9f00d4376eaeb46ed2f.png"
                     height="18"
                   />
-                  Troupe's Dawnlight<br /><img
+                  樂團的晨光<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0b462e74e5cda44f2c0779bbda25c086.png"
                     height="18"
                   />
-                  Maiden's Heart-Stricken Infatuation<br /><img
+                  少女飄搖的思念<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/9dc3caefd41e25089fe83f3007081a58.png"
                     height="18"
                   />
-                  Concert's Final Hour<br /><img
+                  終幕的時計<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/3525b455b77102fb2c81ca7f8666f638.png"
                     height="18"
                   />
-                  Noble's Pledging Vessel<br /><img
+                  盟誓金爵<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b6c2297dfa81ce41a15f5f702b158323.png"
                     height="18"
                   />
-                  General's Ancient Helm<br />
+                  將帥兜鍪<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -3341,19 +3332,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Sapwood Blade</td>
+                <td>名稱</td>
+                <td>原木刀</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -3362,12 +3353,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Nahida</b></summary>
+      <summary><b>納西妲</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Nahida</h3></th>
-          <th><h3 align="center">Sacrificial Fragments</h3></th>
+          <th><h3 align="center">納西妲</h3></th>
+          <th><h3 align="center">祭禮殘章</h3></th>
         </tr>
         <tr>
           <td>
@@ -3391,11 +3382,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
@@ -3404,48 +3395,45 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Deepwood Memories<br />1 x Shimenawa's
-                  Reminiscence<br />
-                </td>
+                <td>聖遺物<br />4 x 深林的記憶<br />1 x 追憶之注連<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ef0f22b833e9caf9acf875b07ef5ddb2.png"
                     height="18"
                   />
-                  Labyrinth Wayfarer<br /><img
+                  迷宮的遊人<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/6b41c04eeca8011e931b816f5e6ca4d9.png"
                     height="18"
                   />
-                  Scholar of Vines<br /><img
+                  翠蔓的智者<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/d80c10aac256a7b786bdd57e7f28feee.png"
                     height="18"
                   />
-                  A Time of Insight<br /><img
+                  賢智的定期<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/20ab72e02b728902a31d89c91e5aecdb.png"
                     height="18"
                   />
-                  Hopeful Heart<br /><img
+                  祈望之心<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/75540d14149b90aecbc3031e55bf9514.png"
                     height="18"
                   />
-                  Laurel Coronet<br />
+                  月桂的寶冠<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -3453,19 +3441,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Sacrificial Fragments</td>
+                <td>名稱</td>
+                <td>祭禮殘章</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -3474,12 +3462,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Wanderer</b></summary>
+      <summary><b>流浪者</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Wanderer</h3></th>
-          <th><h3 align="center">The Widsith</h3></th>
+          <th><h3 align="center">流浪者</h3></th>
+          <th><h3 align="center">流浪樂章</h3></th>
         </tr>
         <tr>
           <td>
@@ -3503,11 +3491,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
@@ -3516,48 +3504,47 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>1</td>
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />4 x Shimenawa's Reminiscence<br />1 x
-                  Wanderer's Troupe<br />
+                  聖遺物<br />4 x 追憶之注連<br />1 x 流浪大地的樂團<br />
                 </td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b4afa3fa218ad188907f4a4d69a39f4a.png"
                     height="18"
                   />
-                  Entangling Bloom<br /><img
+                  羈纏之花<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/41c3b8db9bd4332ffd9ce80daa353f08.png"
                     height="18"
                   />
-                  Bard's Arrow Feather<br /><img
+                  琴師的箭羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a51b3f57392cbf27a17bc018a5f563f6.png"
                     height="18"
                   />
-                  Morning Dew's Moment<br /><img
+                  朝露之時<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/20ab72e02b728902a31d89c91e5aecdb.png"
                     height="18"
                   />
-                  Hopeful Heart<br /><img
+                  祈望之心<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/f2b2000ffbf59c8cd09a0b6552c1c652.png"
                     height="18"
                   />
-                  Capricious Visage<br />
+                  無常之面<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -3565,19 +3552,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>The Widsith</td>
+                <td>名稱</td>
+                <td>流浪樂章</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -3586,12 +3573,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Xiangling</b></summary>
+      <summary><b>香菱</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Xiangling</h3></th>
-          <th><h3 align="center">Dragon's Bane</h3></th>
+          <th><h3 align="center">香菱</h3></th>
+          <th><h3 align="center">匣裡滅辰</h3></th>
         </tr>
         <tr>
           <td>
@@ -3615,11 +3602,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
@@ -3628,48 +3615,45 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Emblem of Severed Fate<br />1 x Gilded
-                  Dreams<br />
-                </td>
+                <td>聖遺物<br />4 x 絕緣之旗印<br />1 x 飾金之夢<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
                     height="18"
                   />
-                  Magnificent Tsuba<br /><img
+                  明威之鐔<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
                     height="18"
                   />
-                  Sundered Feather<br /><img
+                  切落之羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
                     height="18"
                   />
-                  Storm Cage<br /><img
+                  雷雲之籠<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/c487dd0f5f3465b99238257879fa2285.png"
                     height="18"
                   />
-                  Honeyed Final Feast<br /><img
+                  如蜜的終宴<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/394f8bd051d08e35672d537087714a14.png"
                     height="18"
                   />
-                  Ornate Kabuto<br />
+                  華飾之兜<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -3677,19 +3661,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Dragon's Bane</td>
+                <td>名稱</td>
+                <td>匣裡滅辰</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -3698,12 +3682,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Xingqiu</b></summary>
+      <summary><b>行秋</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Xingqiu</h3></th>
-          <th><h3 align="center">Sacrificial Sword</h3></th>
+          <th><h3 align="center">行秋</h3></th>
+          <th><h3 align="center">祭禮劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -3727,11 +3711,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
@@ -3740,48 +3724,45 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Emblem of Severed Fate<br />1 x Gilded
-                  Dreams<br />
-                </td>
+                <td>聖遺物<br />4 x 絕緣之旗印<br />1 x 飾金之夢<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
                     height="18"
                   />
-                  Magnificent Tsuba<br /><img
+                  明威之鐔<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
                     height="18"
                   />
-                  Sundered Feather<br /><img
+                  切落之羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
                     height="18"
                   />
-                  Storm Cage<br /><img
+                  雷雲之籠<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/c487dd0f5f3465b99238257879fa2285.png"
                     height="18"
                   />
-                  Honeyed Final Feast<br /><img
+                  如蜜的終宴<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/394f8bd051d08e35672d537087714a14.png"
                     height="18"
                   />
-                  Ornate Kabuto<br />
+                  華飾之兜<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -3789,19 +3770,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Sacrificial Sword</td>
+                <td>名稱</td>
+                <td>祭禮劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>4</td>
               </tr>
             </table>
@@ -3810,12 +3791,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Bennett</b></summary>
+      <summary><b>班尼特</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Bennett</h3></th>
-          <th><h3 align="center">Skyward Blade</h3></th>
+          <th><h3 align="center">班尼特</h3></th>
+          <th><h3 align="center">天空之刃</h3></th>
         </tr>
         <tr>
           <td>
@@ -3839,11 +3820,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
@@ -3852,48 +3833,45 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Noblesse Oblige<br />1 x Deepwood
-                  Memories<br />
-                </td>
+                <td>聖遺物<br />4 x 昔日宗室之儀<br />1 x 深林的記憶<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b50d6b5b79de120610c205b9c36d44a7.png"
                     height="18"
                   />
-                  Royal Flora<br /><img
+                  宗室之花<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/6b41c04eeca8011e931b816f5e6ca4d9.png"
                     height="18"
                   />
-                  Scholar of Vines<br /><img
+                  翠蔓的智者<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/35d43d4e385007afabaa8a3c6d725883.png"
                     height="18"
                   />
-                  Royal Pocket Watch<br /><img
+                  宗室時計<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/33b2bc73c4d2c5c2a04d9f7ee54f91b0.png"
                     height="18"
                   />
-                  Royal Silver Urn<br /><img
+                  宗室銀甕<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ab36ffe11e1c6003c5dba83c8e1e6b69.png"
                     height="18"
                   />
-                  Royal Masque<br />
+                  宗室面具<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -3901,19 +3879,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Skyward Blade</td>
+                <td>名稱</td>
+                <td>天空之刃</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -3922,12 +3900,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Kuki Shinobu</b></summary>
+      <summary><b>久岐忍</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Kuki Shinobu</h3></th>
-          <th><h3 align="center">Iron Sting</h3></th>
+          <th><h3 align="center">久岐忍</h3></th>
+          <th><h3 align="center">鐵蜂刺</h3></th>
         </tr>
         <tr>
           <td>
@@ -3951,11 +3929,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
@@ -3964,47 +3942,45 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>5</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Gilded Dreams<br />1 x Noblesse Oblige<br />
-                </td>
+                <td>聖遺物<br />4 x 飾金之夢<br />1 x 昔日宗室之儀<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/90e332c28ab25e71930959b521738df4.png"
                     height="18"
                   />
-                  Dreaming Steelbloom<br /><img
+                  夢中的鐵花<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/3bff8203b4ef0cceadba1a864c18cb9d.png"
                     height="18"
                   />
-                  Feather of Judgment<br /><img
+                  裁斷的翎羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8b1704527554337890c97c85901e4f76.png"
                     height="18"
                   />
-                  The Sunken Years<br /><img
+                  沉金的歲月<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/33b2bc73c4d2c5c2a04d9f7ee54f91b0.png"
                     height="18"
                   />
-                  Royal Silver Urn<br /><img
+                  宗室銀甕<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/042041e7ed6e3fbd10f28b8d98d8a9d6.png"
                     height="18"
                   />
-                  Shadow of the Sand King<br />
+                  沙王的投影<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -4012,19 +3988,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Iron Sting</td>
+                <td>名稱</td>
+                <td>鐵蜂刺</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -4033,12 +4009,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Alhaitham</b></summary>
+      <summary><b>艾爾海森</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Alhaitham</h3></th>
-          <th><h3 align="center">Harbinger of Dawn</h3></th>
+          <th><h3 align="center">艾爾海森</h3></th>
+          <th><h3 align="center">黎明神劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -4062,11 +4038,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
@@ -4075,47 +4051,45 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>5</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Deepwood Memories<br />1 x Gilded Dreams<br />
-                </td>
+                <td>聖遺物<br />4 x 深林的記憶<br />1 x 飾金之夢<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ef0f22b833e9caf9acf875b07ef5ddb2.png"
                     height="18"
                   />
-                  Labyrinth Wayfarer<br /><img
+                  迷宮的遊人<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/6b41c04eeca8011e931b816f5e6ca4d9.png"
                     height="18"
                   />
-                  Scholar of Vines<br /><img
+                  翠蔓的智者<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/d80c10aac256a7b786bdd57e7f28feee.png"
                     height="18"
                   />
-                  A Time of Insight<br /><img
+                  賢智的定期<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/417883235f38883a268a45ffe1e65af3.png"
                     height="18"
                   />
-                  Lamp of the Lost<br /><img
+                  迷誤者之燈<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/042041e7ed6e3fbd10f28b8d98d8a9d6.png"
                     height="18"
                   />
-                  Shadow of the Sand King<br />
+                  沙王的投影<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -4123,19 +4097,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Harbinger of Dawn</td>
+                <td>名稱</td>
+                <td>黎明神劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>5</td>
               </tr>
             </table>
@@ -4144,12 +4118,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Yaoyao</b></summary>
+      <summary><b>瑤瑤</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Yaoyao</h3></th>
-          <th><h3 align="center">Black Tassel</h3></th>
+          <th><h3 align="center">瑤瑤</h3></th>
+          <th><h3 align="center">黑纓槍</h3></th>
         </tr>
         <tr>
           <td>
@@ -4173,11 +4147,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
@@ -4186,48 +4160,45 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>89</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>9</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Maiden Beloved<br />1 x Emblem of Severed
-                  Fate<br />
-                </td>
+                <td>聖遺物<br />4 x 被憐愛的少女<br />1 x 絕緣之旗印<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0e02c941f04fc207460b18f82701d945.png"
                     height="18"
                   />
-                  Maiden's Distant Love<br /><img
+                  遠方的少女之心<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0b462e74e5cda44f2c0779bbda25c086.png"
                     height="18"
                   />
-                  Maiden's Heart-Stricken Infatuation<br /><img
+                  少女飄搖的思念<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
                     height="18"
                   />
-                  Storm Cage<br /><img
+                  雷雲之籠<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/316e49f2bed401c93b52cc7c9bf50366.png"
                     height="18"
                   />
-                  Maiden's Fleeting Leisure<br /><img
+                  少女片刻的閒暇<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/e879079adb8502dc3b1bdef76ac5ab8e.png"
                     height="18"
                   />
-                  Maiden's Fading Beauty<br />
+                  少女易逝的芳顏<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -4235,19 +4206,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Black Tassel</td>
+                <td>名稱</td>
+                <td>黑纓槍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>90</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -4256,12 +4227,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Tighnari</b></summary>
+      <summary><b>提納里</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Tighnari</h3></th>
-          <th><h3 align="center">Slingshot</h3></th>
+          <th><h3 align="center">提納里</h3></th>
+          <th><h3 align="center">彈弓</h3></th>
         </tr>
         <tr>
           <td>
@@ -4285,11 +4256,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
@@ -4298,33 +4269,33 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br />2 x Gilded Dreams<br /></td>
+                <td>聖遺物<br />2 x 飾金之夢<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/3bff8203b4ef0cceadba1a864c18cb9d.png"
                     height="18"
                   />
-                  Feather of Judgment<br /><img
+                  裁斷的翎羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/042041e7ed6e3fbd10f28b8d98d8a9d6.png"
                     height="18"
                   />
-                  Shadow of the Sand King<br />
+                  沙王的投影<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -4332,19 +4303,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Slingshot</td>
+                <td>名稱</td>
+                <td>彈弓</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>20</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -4353,12 +4324,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Traveler</b></summary>
+      <summary><b>旅行者</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Traveler</h3></th>
-          <th><h3 align="center">Iron Sting</h3></th>
+          <th><h3 align="center">旅行者</h3></th>
+          <th><h3 align="center">鐵蜂刺</h3></th>
         </tr>
         <tr>
           <td>
@@ -4382,11 +4353,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
@@ -4395,48 +4366,48 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>80</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>4</td>
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Gladiator's Finale<br />2 x Deepwood
-                  Memories<br />1 x Emblem of Severed Fate<br />
+                  聖遺物<br />2 x 角鬥士的終幕禮<br />2 x 深林的記憶<br />1 x
+                  絕緣之旗印<br />
                 </td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/4dc35b15178b0dacec963806540ca9dd.png"
                     height="18"
                   />
-                  Gladiator's Nostalgia<br /><img
+                  角鬥士的留戀<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/6b41c04eeca8011e931b816f5e6ca4d9.png"
                     height="18"
                   />
-                  Scholar of Vines<br /><img
+                  翠蔓的智者<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/d80c10aac256a7b786bdd57e7f28feee.png"
                     height="18"
                   />
-                  A Time of Insight<br /><img
+                  賢智的定期<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/f78e77cb7cf193adc5dc3d53a2db67a7.png"
                     height="18"
                   />
-                  Scarlet Vessel<br /><img
+                  緋花之壺<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/f2c56efa44181cf904181300f32f252b.png"
                     height="18"
                   />
-                  Gladiator's Triumphus<br />
+                  角鬥士的凱旋<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -4444,19 +4415,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Iron Sting</td>
+                <td>名稱</td>
+                <td>鐵蜂刺</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>20</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -4465,12 +4436,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Mona</b></summary>
+      <summary><b>莫娜</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Mona</h3></th>
-          <th><h3 align="center">Prototype Amber</h3></th>
+          <th><h3 align="center">莫娜</h3></th>
+          <th><h3 align="center">試作金珀</h3></th>
         </tr>
         <tr>
           <td>
@@ -4494,11 +4465,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
@@ -4507,67 +4478,65 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>79</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />3 x Emblem of Severed Fate<br />2 x Scholar<br />
-                </td>
+                <td>聖遺物<br />3 x 絕緣之旗印<br />2 x 學士<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
                     height="18"
                   />
-                  Magnificent Tsuba<br /><img
+                  明威之鐔<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
                     height="18"
                   />
-                  Sundered Feather<br /><img
+                  切落之羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
                     height="18"
                   />
-                  Storm Cage<br /><img
+                  雷雲之籠<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/48f20dc7743348a9c133f441fd80d095.png"
                     height="18"
                   />
-                  Scholar's Ink Cup<br /><img
+                  學士的墨杯<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/c683892c8f180e17f3a5fb133a9c1006.png"
                     height="18"
                   />
-                  Scholar's Lens<br />
+                  學士的鏡片<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
-                <td>Pact of Stars and Moon</td>
+                <td>服裝</td>
+                <td>星與月之約</td>
               </tr>
             </table>
           </td>
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Prototype Amber</td>
+                <td>名稱</td>
+                <td>試作金珀</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>70</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -4576,12 +4545,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Faruzan</b></summary>
+      <summary><b>琺露珊</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Faruzan</h3></th>
-          <th><h3 align="center">Favonius Warbow</h3></th>
+          <th><h3 align="center">琺露珊</h3></th>
+          <th><h3 align="center">西風獵弓</h3></th>
         </tr>
         <tr>
           <td>
@@ -4605,11 +4574,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
@@ -4618,48 +4587,45 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>70</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>9</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />4 x Emblem of Severed Fate<br />1 x Gilded
-                  Dreams<br />
-                </td>
+                <td>聖遺物<br />4 x 絕緣之旗印<br />1 x 飾金之夢<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
                     height="18"
                   />
-                  Magnificent Tsuba<br /><img
+                  明威之鐔<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
                     height="18"
                   />
-                  Sundered Feather<br /><img
+                  切落之羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
                     height="18"
                   />
-                  Storm Cage<br /><img
+                  雷雲之籠<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/f78e77cb7cf193adc5dc3d53a2db67a7.png"
                     height="18"
                   />
-                  Scarlet Vessel<br /><img
+                  緋花之壺<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/042041e7ed6e3fbd10f28b8d98d8a9d6.png"
                     height="18"
                   />
-                  Shadow of the Sand King<br />
+                  沙王的投影<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -4667,19 +4633,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Favonius Warbow</td>
+                <td>名稱</td>
+                <td>西風獵弓</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>70</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -4688,12 +4654,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Layla</b></summary>
+      <summary><b>萊依拉</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Layla</h3></th>
-          <th><h3 align="center">Favonius Sword</h3></th>
+          <th><h3 align="center">萊依拉</h3></th>
+          <th><h3 align="center">西風劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -4717,11 +4683,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
@@ -4730,48 +4696,48 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>60</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>9</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>6</td>
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Tenacity of the Millelith<br />1 x Flower
-                  of Paradise Lost<br />2 x Retracing Bolide<br />
+                  聖遺物<br />2 x 千岩牢固<br />1 x 樂園遺落之花<br />2 x
+                  逆飛的流星<br />
                 </td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/cc36e07a2d44ecc1f270fe4048ec9758.png"
                     height="18"
                   />
-                  Flower of Accolades<br /><img
+                  勳績之花<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/eded317e0ef95690cb093dbfb3143118.png"
                     height="18"
                   />
-                  Wilting Feast<br /><img
+                  謝落的筵席<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/06d39d50180def0b49670cf7c72600e5.png"
                     height="18"
                   />
-                  Summer Night's Moment<br /><img
+                  夏祭之刻<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/06a078276b24439066cede1ca8b6e6ce.png"
                     height="18"
                   />
-                  Summer Night's Waterballoon<br /><img
+                  夏祭水玉<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b6c2297dfa81ce41a15f5f702b158323.png"
                     height="18"
                   />
-                  General's Ancient Helm<br />
+                  將帥兜鍪<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -4779,19 +4745,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Favonius Sword</td>
+                <td>名稱</td>
+                <td>西風劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>70</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -4800,12 +4766,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Diona</b></summary>
+      <summary><b>迪奧娜</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Diona</h3></th>
-          <th><h3 align="center">Sacrificial Bow</h3></th>
+          <th><h3 align="center">迪奧娜</h3></th>
+          <th><h3 align="center">祭禮弓</h3></th>
         </tr>
         <tr>
           <td>
@@ -4829,11 +4795,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
@@ -4842,48 +4808,47 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>59</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>9</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>2</td>
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />1 x Tenacity of the Millelith<br />1 x
-                  Scholar<br />3 x The Exile<br />
+                  聖遺物<br />1 x 千岩牢固<br />1 x 學士<br />3 x 流放者<br />
                 </td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/cc36e07a2d44ecc1f270fe4048ec9758.png"
                     height="18"
                   />
-                  Flower of Accolades<br /><img
+                  勳績之花<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8ff44471344e183381a27283f273949f.png"
                     height="18"
                   />
-                  Scholar's Quill Pen<br /><img
+                  學士的羽筆<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0829d1544c68bcb5ea16d7bfbbc0f3fc.png"
                     height="18"
                   />
-                  Exile's Pocket Watch<br /><img
+                  流放者懷錶<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/3ab312133cbf7e4a74e903c065807c88.png"
                     height="18"
                   />
-                  Exile's Goblet<br /><img
+                  流放者之杯<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b730678ec5d80a05d3700584dff46e10.png"
                     height="18"
                   />
-                  Exile's Circlet<br />
+                  流放者頭冠<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -4891,19 +4856,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Sacrificial Bow</td>
+                <td>名稱</td>
+                <td>祭禮弓</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>3</td>
               </tr>
             </table>
@@ -4912,12 +4877,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Collei</b></summary>
+      <summary><b>柯萊</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Collei</h3></th>
-          <th><h3 align="center">The Stringless</h3></th>
+          <th><h3 align="center">柯萊</h3></th>
+          <th><h3 align="center">絕弦</h3></th>
         </tr>
         <tr>
           <td>
@@ -4941,11 +4906,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
@@ -4954,45 +4919,45 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>50</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>10</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br />5 x Instructor<br /></td>
+                <td>聖遺物<br />5 x 教官<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/72dcf245ffe028506b692df4345e9475.png"
                     height="18"
                   />
-                  Instructor's Brooch<br /><img
+                  教官的胸花<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/190a90386ed89ce2ebfbe61b6599bbb7.png"
                     height="18"
                   />
-                  Instructor's Feather Accessory<br /><img
+                  教官的羽飾<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/97666ce86d5e603ecb0f24d2f99f2c18.png"
                     height="18"
                   />
-                  Instructor's Pocket Watch<br /><img
+                  教官的懷錶<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/56fb5189c3b274a71cee1fa0dccd7a71.png"
                     height="18"
                   />
-                  Instructor's Tea Cup<br /><img
+                  教官的茶杯<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/153d01c598001d771b1f465502844941.png"
                     height="18"
                   />
-                  Instructor's Cap<br />
+                  教官的帽子<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -5000,19 +4965,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>The Stringless</td>
+                <td>名稱</td>
+                <td>絕弦</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>20</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -5021,12 +4986,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Yanfei</b></summary>
+      <summary><b>煙緋</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Yanfei</h3></th>
-          <th><h3 align="center">Apprentice's Notes</h3></th>
+          <th><h3 align="center">煙緋</h3></th>
+          <th><h3 align="center">學徒筆記</h3></th>
         </tr>
         <tr>
           <td>
@@ -5050,11 +5015,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
@@ -5063,29 +5028,29 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>50</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>7</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>5</td>
               </tr>
               <tr>
-                <td>Artifacts<br />1 x Wanderer's Troupe<br /></td>
+                <td>聖遺物<br />1 x 流浪大地的樂團<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/76578394cc5bea5c8931c8f1ae9caf35.png"
                     height="18"
                   />
-                  Wanderer's String-Kettle<br />
+                  吟遊者之壺<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -5093,19 +5058,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Apprentice's Notes</td>
+                <td>名稱</td>
+                <td>學徒筆記</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -5114,12 +5079,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Yun Jin</b></summary>
+      <summary><b>雲堇</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Yun Jin</h3></th>
-          <th><h3 align="center">Beginner's Protector</h3></th>
+          <th><h3 align="center">雲堇</h3></th>
+          <th><h3 align="center">新手長槍</h3></th>
         </tr>
         <tr>
           <td>
@@ -5143,11 +5108,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
@@ -5156,23 +5121,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>50</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>4</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>4</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -5180,19 +5145,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Beginner's Protector</td>
+                <td>名稱</td>
+                <td>新手長槍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -5201,12 +5166,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Sucrose</b></summary>
+      <summary><b>砂糖</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Sucrose</h3></th>
-          <th><h3 align="center">Apprentice's Notes</h3></th>
+          <th><h3 align="center">砂糖</h3></th>
+          <th><h3 align="center">學徒筆記</h3></th>
         </tr>
         <tr>
           <td>
@@ -5230,11 +5195,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
@@ -5243,23 +5208,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>50</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -5267,19 +5232,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Apprentice's Notes</td>
+                <td>名稱</td>
+                <td>學徒筆記</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -5288,12 +5253,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Dori</b></summary>
+      <summary><b>多莉</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Dori</h3></th>
-          <th><h3 align="center">Waster Greatsword</h3></th>
+          <th><h3 align="center">多莉</h3></th>
+          <th><h3 align="center">訓練大劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -5317,11 +5282,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
@@ -5330,23 +5295,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>50</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>5</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -5354,19 +5319,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Waster Greatsword</td>
+                <td>名稱</td>
+                <td>訓練大劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -5375,12 +5340,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Barbara</b></summary>
+      <summary><b>芭芭拉</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Barbara</h3></th>
-          <th><h3 align="center">Favonius Codex</h3></th>
+          <th><h3 align="center">芭芭拉</h3></th>
+          <th><h3 align="center">西風秘典</h3></th>
         </tr>
         <tr>
           <td>
@@ -5404,11 +5369,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
@@ -5417,48 +5382,47 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>49</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>3</td>
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />3 x Tenacity of the Millelith<br />1 x Gilded
-                  Dreams<br />1 x Berserker<br />
+                  聖遺物<br />3 x 千岩牢固<br />1 x 飾金之夢<br />1 x 戰狂<br />
                 </td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/cc36e07a2d44ecc1f270fe4048ec9758.png"
                     height="18"
                   />
-                  Flower of Accolades<br /><img
+                  勳績之花<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/bbf419fb2340557358e28de0a1dd199a.png"
                     height="18"
                   />
-                  Ceremonial War-Plume<br /><img
+                  昭武翎羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8b1704527554337890c97c85901e4f76.png"
                     height="18"
                   />
-                  The Sunken Years<br /><img
+                  沉金的歲月<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ec0241e6bc4c1e0e39975a02a02b166f.png"
                     height="18"
                   />
-                  Berserker's Bone Goblet<br /><img
+                  戰狂的骨杯<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b6c2297dfa81ce41a15f5f702b158323.png"
                     height="18"
                   />
-                  General's Ancient Helm<br />
+                  將帥兜鍪<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -5466,19 +5430,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Favonius Codex</td>
+                <td>名稱</td>
+                <td>西風秘典</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>20</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -5487,12 +5451,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Fischl</b></summary>
+      <summary><b>菲謝爾</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Fischl</h3></th>
-          <th><h3 align="center">Hunter's Bow</h3></th>
+          <th><h3 align="center">菲謝爾</h3></th>
+          <th><h3 align="center">獵弓</h3></th>
         </tr>
         <tr>
           <td>
@@ -5516,11 +5480,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
@@ -5529,23 +5493,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>49</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -5553,19 +5517,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Hunter's Bow</td>
+                <td>名稱</td>
+                <td>獵弓</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -5574,12 +5538,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Kujou Sara</b></summary>
+      <summary><b>九條裟羅</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Kujou Sara</h3></th>
-          <th><h3 align="center">Hunter's Bow</h3></th>
+          <th><h3 align="center">九條裟羅</h3></th>
+          <th><h3 align="center">獵弓</h3></th>
         </tr>
         <tr>
           <td>
@@ -5603,11 +5567,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
@@ -5616,23 +5580,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>49</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -5640,19 +5604,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Hunter's Bow</td>
+                <td>名稱</td>
+                <td>獵弓</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -5661,12 +5625,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Lynette</b></summary>
+      <summary><b>琳妮特</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Lynette</h3></th>
-          <th><h3 align="center">Dull Blade</h3></th>
+          <th><h3 align="center">琳妮特</h3></th>
+          <th><h3 align="center">無鋒劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -5690,11 +5654,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
@@ -5703,23 +5667,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>49</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -5727,19 +5691,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Dull Blade</td>
+                <td>名稱</td>
+                <td>無鋒劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -5748,12 +5712,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Amber</b></summary>
+      <summary><b>安柏</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Amber</h3></th>
-          <th><h3 align="center">Hunter's Bow</h3></th>
+          <th><h3 align="center">安柏</h3></th>
+          <th><h3 align="center">獵弓</h3></th>
         </tr>
         <tr>
           <td>
@@ -5777,11 +5741,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
@@ -5790,64 +5754,63 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>9</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Adventurer<br />1 x Traveling Doctor<br />1
-                  x Lucky Dog<br />
+                  聖遺物<br />2 x 冒險家<br />1 x 遊醫<br />1 x 幸運兒<br />
                 </td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/fcc2eb011f8b4df975c064ed7cbc0a1a.png"
                     height="18"
                   />
-                  Adventurer's Flower<br /><img
+                  冒險家之花<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/38ba5f3ad5e0819e2fd61e7b198988f8.png"
                     height="18"
                   />
-                  Adventurer's Tail Feather<br /><img
+                  冒險家尾羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/21498dd7e37168a9ff0c01685c227aad.png"
                     height="18"
                   />
-                  Traveling Doctor's Pocket Watch<br /><img
+                  遊醫的懷鐘<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/173bc8ea9960162929cecbf89ff81f9e.png"
                     height="18"
                   />
-                  Lucky Dog's Silver Circlet<br />
+                  幸運兒銀冠<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
-                <td>100% Outrider</td>
+                <td>服裝</td>
+                <td>100%偵察騎士</td>
               </tr>
             </table>
           </td>
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Hunter's Bow</td>
+                <td>名稱</td>
+                <td>獵弓</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -5856,12 +5819,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Sayu</b></summary>
+      <summary><b>早柚</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Sayu</h3></th>
-          <th><h3 align="center">Sacrificial Greatsword</h3></th>
+          <th><h3 align="center">早柚</h3></th>
+          <th><h3 align="center">祭禮大劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -5885,11 +5848,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
@@ -5898,48 +5861,47 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>4</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>1</td>
               </tr>
               <tr>
                 <td>
-                  Artifacts<br />2 x Berserker<br />2 x Traveling Doctor<br />1
-                  x Lucky Dog<br />
+                  聖遺物<br />2 x 戰狂<br />2 x 遊醫<br />1 x 幸運兒<br />
                 </td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/5e4ba056768e051f5ecab4a428fb9d89.png"
                     height="18"
                   />
-                  Berserker's Rose<br /><img
+                  戰狂的薔薇<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/736e6d26a118097b79068953f1be04ea.png"
                     height="18"
                   />
-                  Traveling Doctor's Owl Feather<br /><img
+                  遊醫的梟羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/21498dd7e37168a9ff0c01685c227aad.png"
                     height="18"
                   />
-                  Traveling Doctor's Pocket Watch<br /><img
+                  遊醫的懷鐘<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b4b77a8ec987604e4788570c57ded77c.png"
                     height="18"
                   />
-                  Lucky Dog's Goblet<br /><img
+                  幸運兒之杯<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/189a41d7638e1ad4a1b9655dc679da9f.png"
                     height="18"
                   />
-                  Berserker's Battle Mask<br />
+                  戰狂的鬼面<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -5947,19 +5909,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Sacrificial Greatsword</td>
+                <td>名稱</td>
+                <td>祭禮大劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>50</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -5968,12 +5930,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Candace</b></summary>
+      <summary><b>坎蒂絲</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Candace</h3></th>
-          <th><h3 align="center">Black Tassel</h3></th>
+          <th><h3 align="center">坎蒂絲</h3></th>
+          <th><h3 align="center">黑纓槍</h3></th>
         </tr>
         <tr>
           <td>
@@ -5997,11 +5959,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
@@ -6010,47 +5972,45 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />2 x Lucky Dog<br />3 x Traveling Doctor<br />
-                </td>
+                <td>聖遺物<br />2 x 幸運兒<br />3 x 遊醫<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/7e43b0c717e6880236789a8c16e93065.png"
                     height="18"
                   />
-                  Lucky Dog's Clover<br /><img
+                  幸運兒綠花<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/736e6d26a118097b79068953f1be04ea.png"
                     height="18"
                   />
-                  Traveling Doctor's Owl Feather<br /><img
+                  遊醫的梟羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/21498dd7e37168a9ff0c01685c227aad.png"
                     height="18"
                   />
-                  Traveling Doctor's Pocket Watch<br /><img
+                  遊醫的懷鐘<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b4b77a8ec987604e4788570c57ded77c.png"
                     height="18"
                   />
-                  Lucky Dog's Goblet<br /><img
+                  幸運兒之杯<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/055aadb0fa8300136b00defb5de42b54.png"
                     height="18"
                   />
-                  Traveling Doctor's Handkerchief<br />
+                  遊醫的方巾<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -6058,19 +6018,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Black Tassel</td>
+                <td>名稱</td>
+                <td>黑纓槍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -6079,12 +6039,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Dehya</b></summary>
+      <summary><b>迪希雅</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Dehya</h3></th>
-          <th><h3 align="center">Waster Greatsword</h3></th>
+          <th><h3 align="center">迪希雅</h3></th>
+          <th><h3 align="center">訓練大劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -6108,11 +6068,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
@@ -6121,23 +6081,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -6145,19 +6105,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Waster Greatsword</td>
+                <td>名稱</td>
+                <td>訓練大劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -6166,12 +6126,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Neuvillette</b></summary>
+      <summary><b>那維萊特</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Neuvillette</h3></th>
-          <th><h3 align="center">Apprentice's Notes</h3></th>
+          <th><h3 align="center">那維萊特</h3></th>
+          <th><h3 align="center">學徒筆記</h3></th>
         </tr>
         <tr>
           <td>
@@ -6195,11 +6155,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
@@ -6208,23 +6168,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -6232,19 +6192,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Apprentice's Notes</td>
+                <td>名稱</td>
+                <td>學徒筆記</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -6253,12 +6213,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Lisa</b></summary>
+      <summary><b>麗莎</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Lisa</h3></th>
-          <th><h3 align="center">Emerald Orb</h3></th>
+          <th><h3 align="center">麗莎</h3></th>
+          <th><h3 align="center">翡玉法球</h3></th>
         </tr>
         <tr>
           <td>
@@ -6282,11 +6242,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
@@ -6295,67 +6255,65 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>
-                  Artifacts<br />2 x Traveling Doctor<br />3 x Adventurer<br />
-                </td>
+                <td>聖遺物<br />2 x 遊醫<br />3 x 冒險家<br /></td>
                 <td>
                   <img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/70189fe0f5ee51c0394fdfcba5a2969d.png"
                     height="18"
                   />
-                  Traveling Doctor's Silver Lotus<br /><img
+                  遊醫的銀蓮<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/38ba5f3ad5e0819e2fd61e7b198988f8.png"
                     height="18"
                   />
-                  Adventurer's Tail Feather<br /><img
+                  冒險家尾羽<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/21498dd7e37168a9ff0c01685c227aad.png"
                     height="18"
                   />
-                  Traveling Doctor's Pocket Watch<br /><img
+                  遊醫的懷鐘<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/1e73eae73f26e1be4b05bf5fa399b8d1.png"
                     height="18"
                   />
-                  Adventurer's Golden Goblet<br /><img
+                  冒險家金杯<br /><img
                     src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/690c0602479991d210cf3dc0417ce373.png"
                     height="18"
                   />
-                  Adventurer's Bandana<br />
+                  冒險家頭帶<br />
                 </td>
               </tr>
               <tr>
-                <td>Outfits</td>
-                <td>A Sobriquet Under Shade</td>
+                <td>服裝</td>
+                <td>葉隱芳名</td>
               </tr>
             </table>
           </td>
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Emerald Orb</td>
+                <td>名稱</td>
+                <td>翡玉法球</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>20</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -6364,12 +6322,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Razor</b></summary>
+      <summary><b>雷澤</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Razor</h3></th>
-          <th><h3 align="center">Waster Greatsword</h3></th>
+          <th><h3 align="center">雷澤</h3></th>
+          <th><h3 align="center">訓練大劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -6393,11 +6351,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
@@ -6406,23 +6364,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -6430,19 +6388,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Waster Greatsword</td>
+                <td>名稱</td>
+                <td>訓練大劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -6451,12 +6409,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Ningguang</b></summary>
+      <summary><b>凝光</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Ningguang</h3></th>
-          <th><h3 align="center">Apprentice's Notes</h3></th>
+          <th><h3 align="center">凝光</h3></th>
+          <th><h3 align="center">學徒筆記</h3></th>
         </tr>
         <tr>
           <td>
@@ -6480,11 +6438,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
@@ -6493,23 +6451,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -6517,19 +6475,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Apprentice's Notes</td>
+                <td>名稱</td>
+                <td>學徒筆記</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -6538,12 +6496,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Xinyan</b></summary>
+      <summary><b>辛焱</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Xinyan</h3></th>
-          <th><h3 align="center">Rainslasher</h3></th>
+          <th><h3 align="center">辛焱</h3></th>
+          <th><h3 align="center">雨裁</h3></th>
         </tr>
         <tr>
           <td>
@@ -6567,11 +6525,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
@@ -6580,23 +6538,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -6604,19 +6562,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Rainslasher</td>
+                <td>名稱</td>
+                <td>雨裁</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -6625,12 +6583,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Rosaria</b></summary>
+      <summary><b>蘿莎莉亞</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Rosaria</h3></th>
-          <th><h3 align="center">Beginner's Protector</h3></th>
+          <th><h3 align="center">蘿莎莉亞</h3></th>
+          <th><h3 align="center">新手長槍</h3></th>
         </tr>
         <tr>
           <td>
@@ -6654,11 +6612,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
@@ -6667,43 +6625,43 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
-                <td>To the Church's Free Spirit</td>
+                <td>服裝</td>
+                <td>致教會自由人</td>
               </tr>
             </table>
           </td>
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Beginner's Protector</td>
+                <td>名稱</td>
+                <td>新手長槍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -6712,12 +6670,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Thoma</b></summary>
+      <summary><b>托馬</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Thoma</h3></th>
-          <th><h3 align="center">Beginner's Protector</h3></th>
+          <th><h3 align="center">托馬</h3></th>
+          <th><h3 align="center">新手長槍</h3></th>
         </tr>
         <tr>
           <td>
@@ -6741,11 +6699,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
@@ -6754,23 +6712,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -6778,19 +6736,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Beginner's Protector</td>
+                <td>名稱</td>
+                <td>新手長槍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -6799,12 +6757,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Shikanoin Heizou</b></summary>
+      <summary><b>鹿野院平藏</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Shikanoin Heizou</h3></th>
-          <th><h3 align="center">Apprentice's Notes</h3></th>
+          <th><h3 align="center">鹿野院平藏</h3></th>
+          <th><h3 align="center">學徒筆記</h3></th>
         </tr>
         <tr>
           <td>
@@ -6828,11 +6786,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
@@ -6841,23 +6799,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -6865,19 +6823,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Apprentice's Notes</td>
+                <td>名稱</td>
+                <td>學徒筆記</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -6886,12 +6844,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Kirara</b></summary>
+      <summary><b>綺良良</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Kirara</h3></th>
-          <th><h3 align="center">Dull Blade</h3></th>
+          <th><h3 align="center">綺良良</h3></th>
+          <th><h3 align="center">無鋒劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -6915,11 +6873,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
@@ -6928,23 +6886,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>40</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -6952,19 +6910,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Dull Blade</td>
+                <td>名稱</td>
+                <td>無鋒劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -6973,12 +6931,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Keqing</b></summary>
+      <summary><b>刻晴</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Keqing</h3></th>
-          <th><h3 align="center">Dull Blade</h3></th>
+          <th><h3 align="center">刻晴</h3></th>
+          <th><h3 align="center">無鋒劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -7002,11 +6960,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
@@ -7015,23 +6973,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>39</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>5</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -7039,19 +6997,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Dull Blade</td>
+                <td>名稱</td>
+                <td>無鋒劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -7060,12 +7018,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Kaeya</b></summary>
+      <summary><b>凱亞</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Kaeya</h3></th>
-          <th><h3 align="center">Dull Blade</h3></th>
+          <th><h3 align="center">凱亞</h3></th>
+          <th><h3 align="center">無鋒劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -7089,11 +7047,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
@@ -7102,43 +7060,43 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>39</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
-                <td>Sailwind Shadow</td>
+                <td>服裝</td>
+                <td>帆影游風</td>
               </tr>
             </table>
           </td>
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Dull Blade</td>
+                <td>名稱</td>
+                <td>無鋒劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -7147,12 +7105,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Jean</b></summary>
+      <summary><b>琴</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Jean</h3></th>
-          <th><h3 align="center">Dull Blade</h3></th>
+          <th><h3 align="center">琴</h3></th>
+          <th><h3 align="center">無鋒劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -7176,11 +7134,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp"
@@ -7189,43 +7147,43 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>39</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
-                <td>Gunnhildr's Legacy</td>
+                <td>服裝</td>
+                <td>古恩希爾德的傳承</td>
               </tr>
             </table>
           </td>
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Dull Blade</td>
+                <td>名稱</td>
+                <td>無鋒劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -7234,12 +7192,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Diluc</b></summary>
+      <summary><b>迪盧克</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Diluc</h3></th>
-          <th><h3 align="center">Waster Greatsword</h3></th>
+          <th><h3 align="center">迪盧克</h3></th>
+          <th><h3 align="center">訓練大劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -7263,11 +7221,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
@@ -7276,23 +7234,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>39</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>0</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -7300,19 +7258,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Waster Greatsword</td>
+                <td>名稱</td>
+                <td>訓練大劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -7321,12 +7279,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Beidou</b></summary>
+      <summary><b>北斗</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Beidou</h3></th>
-          <th><h3 align="center">Waster Greatsword</h3></th>
+          <th><h3 align="center">北斗</h3></th>
+          <th><h3 align="center">訓練大劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -7350,11 +7308,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp"
@@ -7363,23 +7321,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>39</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>5</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -7387,19 +7345,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Waster Greatsword</td>
+                <td>名稱</td>
+                <td>訓練大劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -7408,12 +7366,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Noelle</b></summary>
+      <summary><b>諾艾爾</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Noelle</h3></th>
-          <th><h3 align="center">Waster Greatsword</h3></th>
+          <th><h3 align="center">諾艾爾</h3></th>
+          <th><h3 align="center">訓練大劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -7437,11 +7395,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
@@ -7450,23 +7408,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>39</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>5</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -7474,19 +7432,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Waster Greatsword</td>
+                <td>名稱</td>
+                <td>訓練大劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -7495,12 +7453,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Chongyun</b></summary>
+      <summary><b>重雲</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Chongyun</h3></th>
-          <th><h3 align="center">Waster Greatsword</h3></th>
+          <th><h3 align="center">重雲</h3></th>
+          <th><h3 align="center">訓練大劍</h3></th>
         </tr>
         <tr>
           <td>
@@ -7524,11 +7482,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
@@ -7537,23 +7495,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>39</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -7561,19 +7519,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Waster Greatsword</td>
+                <td>名稱</td>
+                <td>訓練大劍</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -7582,12 +7540,12 @@
       </table>
     </details>
     <details>
-      <summary><b>Gorou</b></summary>
+      <summary><b>五郎</b></summary>
       <br />
       <table>
         <tr>
-          <th><h3 align="center">Gorou</h3></th>
-          <th><h3 align="center">Hunter's Bow</h3></th>
+          <th><h3 align="center">五郎</h3></th>
+          <th><h3 align="center">獵弓</h3></th>
         </tr>
         <tr>
           <td>
@@ -7611,11 +7569,11 @@
           <td>
             <table>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★★★★</td>
               </tr>
               <tr>
-                <td>Element</td>
+                <td>元素</td>
                 <td>
                   <img
                     src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
@@ -7624,23 +7582,23 @@
                 </td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>39</td>
               </tr>
               <tr>
-                <td>Friendship</td>
+                <td>好感</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Constellation</td>
+                <td>命座</td>
                 <td>2</td>
               </tr>
               <tr>
-                <td>Artifacts<br /></td>
+                <td>聖遺物<br /></td>
                 <td></td>
               </tr>
               <tr>
-                <td>Outfits</td>
+                <td>服裝</td>
                 <td></td>
               </tr>
             </table>
@@ -7648,19 +7606,19 @@
           <td valign="top">
             <table>
               <tr>
-                <td>Name</td>
-                <td>Hunter's Bow</td>
+                <td>名稱</td>
+                <td>獵弓</td>
               </tr>
               <tr>
-                <td>Rarity</td>
+                <td>星級</td>
                 <td>★</td>
               </tr>
               <tr>
-                <td>Level</td>
+                <td>等級</td>
                 <td>1</td>
               </tr>
               <tr>
-                <td>Refinement</td>
+                <td>精煉</td>
                 <td>1</td>
               </tr>
             </table>
@@ -7670,33 +7628,29 @@
     </details>
   </div>
 </details>
-<h2 align="center">My Genshin Impact Characters Showcase</h2>
+<h2 align="center">原神角色展示</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_24_10_2023-21_24_22.png" />
+  <img src="images/showcase/genshin_card_24_10_2023-21_53_44.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_24_10_2023-21_24_23.png" />
+  <img src="images/showcase/genshin_card_24_10_2023-21_53_45.png" />
 </details>
-<h2 align="center">My Honkai: Star Rail Characters Showcase</h2>
+<h2 align="center">星鐵角色展示</h2>
 <details align="center">
   <summary>SilverWolf</summary>
-  <img src="images/showcase/Silver_Wolf_24_10_2023-21_25_03.png" />
+  <img src="images/showcase/Silver_Wolf_24_10_2023-21_53_13.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_24_10_2023-21_25_04.png" />
+  <img src="images/showcase/Dan_Heng_24_10_2023-21_53_13.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_24_10_2023-21_25_04.png" />
+  <img src="images/showcase/Seele_24_10_2023-21_53_14.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_24_10_2023-21_25_04.png" />
+  <img src="images/showcase/Asta_24_10_2023-21_53_14.png" />
 </details>
-<h2 align="center">
-  You can also check my Genshin Impact and HSR characters showcase/builds on
-  <a href="https://enka.network/u/joydazo">Enka.Network</a>
-</h2>
