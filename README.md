@@ -1,5 +1,5 @@
 <h1 align="center">原神 啟動</h1>
-<h3 align="center">🕒 更新於 <u>Oct 24, 2023 21:55 +0700</u></h3>
+<h3 align="center">🕒 更新於 <u>Oct 25, 2023 01:23 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -11,24 +11,24 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/5idereal_24_10_2023-21_53_31.png" />
+    <img src="images/profile/5idereal_25_10_2023-01_23_27.png" />
   </div>
   <div align="center">
     <h2><img src="images/icons/hsr_check_in.png" height="20" /> 每日獎勵</h2>
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
         <td>
-          8000 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
             height="20"
           />
-          信用點
+          一次性動力臂
         </td>
       </tr>
     </table>
@@ -2518,7 +2518,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/genshin_profile_24_10_2023-21_55_04.png" />
+    <img src="images/profile/genshin_profile_25_10_2023-01_22_47.png" />
   </div>
   <div align="center">
     <h2>
@@ -2527,17 +2527,17 @@
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>24</td>
+        <td>25</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
         <td>
-          5000 x
+          3 x
           <img
-            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          摩拉
+          大英雄的經驗
         </td>
       </tr>
     </table>
@@ -7631,26 +7631,26 @@
 <h2 align="center">原神角色展示</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_24_10_2023-21_53_44.png" />
+  <img src="images/showcase/genshin_card_25_10_2023-01_22_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_24_10_2023-21_53_45.png" />
+  <img src="images/showcase/genshin_card_25_10_2023-01_22_25.png" />
 </details>
 <h2 align="center">星鐵角色展示</h2>
 <details align="center">
   <summary>SilverWolf</summary>
-  <img src="images/showcase/Silver_Wolf_24_10_2023-21_53_13.png" />
+  <img src="images/showcase/Silver_Wolf_25_10_2023-01_23_01.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_24_10_2023-21_53_13.png" />
+  <img src="images/showcase/Dan_Heng_25_10_2023-01_23_01.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_24_10_2023-21_53_14.png" />
+  <img src="images/showcase/Seele_25_10_2023-01_23_02.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_24_10_2023-21_53_14.png" />
+  <img src="images/showcase/Asta_25_10_2023-01_23_02.png" />
 </details>
