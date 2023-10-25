@@ -1,5 +1,5 @@
 <h1 align="center">原神 啟動</h1>
-<h3 align="center">🕒 更新於 <u>Oct 25, 2023 08:12 +0700</u></h3>
+<h3 align="center">🕒 更新於 <u>Oct 25, 2023 13:23 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -11,7 +11,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/5idereal_25_10_2023-08_12_24.png" />
+    <img src="images/profile/5idereal_25_10_2023-13_23_30.png" />
   </div>
   <div align="center">
     <h2><img src="images/icons/hsr_check_in.png" height="20" /> 每日獎勵</h2>
@@ -69,7 +69,7 @@
         <td>
           <img src="images/icons/stellar_jade.png" height="18" />已賺取星瓊數
         </td>
-        <td>10998 (rate -22)</td>
+        <td>11188 (rate -21)</td>
       </tr>
       <tr>
         <td>
@@ -83,9 +83,9 @@
       <tr>
         <td>類別</td>
         <td>
-          每日活躍: 3450 (31%)<br />冒險獎勵: 2645 (24%)<br />活動獎勵: 1700
-          (15%)<br />忘卻之庭獎勵: 1400 (12%)<br />模擬宇宙獎勵: 1090 (9%)<br />郵件獎勵:
-          710 (6%)<br />其他: 3 (3%)<br />
+          每日活躍: 3600 (32%)<br />冒險獎勵: 2645 (23%)<br />活動獎勵: 1700
+          (15%)<br />忘卻之庭獎勵: 1400 (12%)<br />模擬宇宙獎勵: 1130 (10%)<br />郵件獎勵:
+          710 (6%)<br />其他: 3 (2%)<br />
         </td>
       </tr>
     </table>
@@ -2518,7 +2518,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/genshin_profile_25_10_2023-08_11_54.png" />
+    <img src="images/profile/genshin_profile_25_10_2023-13_22_47.png" />
   </div>
   <div align="center">
     <h2>
@@ -2558,7 +2558,7 @@
       </tr>
       <tr>
         <td>活躍天數</td>
-        <td>337</td>
+        <td>338</td>
       </tr>
       <tr>
         <td>Ta的角色</td>
@@ -2989,7 +2989,7 @@
           />
           已賺取原石數
         </td>
-        <td>5417 (rate -31)</td>
+        <td>5497 (rate -30)</td>
       </tr>
       <tr>
         <td>
@@ -2999,12 +2999,12 @@
           />
           已賺取摩拉數
         </td>
-        <td>5181123 (rate -10)</td>
+        <td>5231123 (rate -10)</td>
       </tr>
       <tr>
         <td>類別</td>
         <td>
-          活動: 1750 (33%)<br />每日活躍: 1220 (23%)<br />信件: 690 (13%)<br />任務:
+          活動: 1830 (34%)<br />每日活躍: 1220 (23%)<br />信件: 690 (12%)<br />任務:
           620 (11%)<br />冒險: 555 (10%)<br />深境螺旋: 450 (8%)<br />其他: 132
           (2%)<br />
         </td>
@@ -3040,7 +3040,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/45d6ddf17a168242c575c9f6cf8e133e.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/84abcc964b0cccb13832275784d19455.png"
                 height="250"
               />
             </p>
@@ -3078,23 +3078,23 @@
                 <td>聖遺物<br />4 x 絕緣之旗印<br />1 x 深林的記憶<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/710df73fdf1d93dceecb4099180000de.png"
                     height="18"
                   />
                   明威之鐔<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/4b163d8b9b48b662cfafe2fed7f1f643.png"
                     height="18"
                   />
                   切落之羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c7f50d4eb974d790c931e0567c6e6f5f.png"
                     height="18"
                   />
                   雷雲之籠<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/417883235f38883a268a45ffe1e65af3.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/08013e4d585b5c0260972694af3a1ca5.png"
                     height="18"
                   />
                   迷誤者之燈<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/394f8bd051d08e35672d537087714a14.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/63a4bee0f6ae510268924b6b64766f42.png"
                     height="18"
                   />
                   華飾之兜<br />
@@ -3149,7 +3149,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/c1b99f157792bebd0af61a6d6f0015ac.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png"
                 height="250"
               />
             </p>
@@ -3189,23 +3189,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/710df73fdf1d93dceecb4099180000de.png"
                     height="18"
                   />
                   明威之鐔<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/4b163d8b9b48b662cfafe2fed7f1f643.png"
                     height="18"
                   />
                   切落之羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c7f50d4eb974d790c931e0567c6e6f5f.png"
                     height="18"
                   />
                   雷雲之籠<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/272d8252883e66d5a353455bcf8509ba.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c2912757a0d763af17b29b243db7fe16.png"
                     height="18"
                   />
                   角鬥士的酣醉<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/394f8bd051d08e35672d537087714a14.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/63a4bee0f6ae510268924b6b64766f42.png"
                     height="18"
                   />
                   華飾之兜<br />
@@ -3260,7 +3260,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b7302885f585364eb174b4fb4023a4dc.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/51711db268113114f59592ed05274e3f.png"
                 height="250"
               />
             </p>
@@ -3301,23 +3301,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/76f85673a23bb9f00d4376eaeb46ed2f.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/80c3f71a88410841aeef7b678c38a1f9.png"
                     height="18"
                   />
                   樂團的晨光<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0b462e74e5cda44f2c0779bbda25c086.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/514bb60a5493a0bacace6ccaf1ebf3cc.png"
                     height="18"
                   />
                   少女飄搖的思念<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/9dc3caefd41e25089fe83f3007081a58.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/11e833236ff29245582a443ad75c3fc8.png"
                     height="18"
                   />
                   終幕的時計<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/3525b455b77102fb2c81ca7f8666f638.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/f2a2ddc3372cdc79b56694503d5d0be8.png"
                     height="18"
                   />
                   盟誓金爵<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b6c2297dfa81ce41a15f5f702b158323.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/7c5f7c98183bb30861e446db17bf6237.png"
                     height="18"
                   />
                   將帥兜鍪<br />
@@ -3372,7 +3372,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ac52a62902d55d471db654200bc24b55.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/cc25ad9cbc47384bb9cedb818f8e548c.png"
                 height="250"
               />
             </p>
@@ -3410,23 +3410,23 @@
                 <td>聖遺物<br />4 x 深林的記憶<br />1 x 追憶之注連<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ef0f22b833e9caf9acf875b07ef5ddb2.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/330433bae224aca0f5b44a053a9ece88.png"
                     height="18"
                   />
                   迷宮的遊人<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/6b41c04eeca8011e931b816f5e6ca4d9.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/7e5ecc4c61da7e3031863c5d181c1cae.png"
                     height="18"
                   />
                   翠蔓的智者<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/d80c10aac256a7b786bdd57e7f28feee.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/78d113a2e2ccd015d1e1d9fa4960d6d9.png"
                     height="18"
                   />
                   賢智的定期<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/20ab72e02b728902a31d89c91e5aecdb.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/032572df002ec7fe0b72552ba63d5fe9.png"
                     height="18"
                   />
                   祈望之心<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/75540d14149b90aecbc3031e55bf9514.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/70a245f22d7390f5c48ab4f8f5301662.png"
                     height="18"
                   />
                   月桂的寶冠<br />
@@ -3481,7 +3481,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/87cfb60a01d377b362434e99f6b48124.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/4b5eeac84e320fc20ef2163c2750c800.png"
                 height="250"
               />
             </p>
@@ -3521,23 +3521,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b4afa3fa218ad188907f4a4d69a39f4a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/a580e5c000fecb9c2654dd5768101233.png"
                     height="18"
                   />
                   羈纏之花<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/41c3b8db9bd4332ffd9ce80daa353f08.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/ac3f918b3533b6a6ad26ccebca32b38f.png"
                     height="18"
                   />
                   琴師的箭羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a51b3f57392cbf27a17bc018a5f563f6.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/7d6e8eb9ebfc58c79eee5fcb748e9b6e.png"
                     height="18"
                   />
                   朝露之時<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/20ab72e02b728902a31d89c91e5aecdb.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/032572df002ec7fe0b72552ba63d5fe9.png"
                     height="18"
                   />
                   祈望之心<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/f2b2000ffbf59c8cd09a0b6552c1c652.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/28ed7620ac5ec375ff12f9a33171f604.png"
                     height="18"
                   />
                   無常之面<br />
@@ -3592,7 +3592,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/1d8abfb25a5e8a7285b715ef51a3aec9.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/4636b5ae549e4baeba4181251c13e369.png"
                 height="250"
               />
             </p>
@@ -3630,23 +3630,23 @@
                 <td>聖遺物<br />4 x 絕緣之旗印<br />1 x 飾金之夢<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/710df73fdf1d93dceecb4099180000de.png"
                     height="18"
                   />
                   明威之鐔<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/4b163d8b9b48b662cfafe2fed7f1f643.png"
                     height="18"
                   />
                   切落之羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c7f50d4eb974d790c931e0567c6e6f5f.png"
                     height="18"
                   />
                   雷雲之籠<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/c487dd0f5f3465b99238257879fa2285.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/08bc3475cab7d7b290403c96a437a148.png"
                     height="18"
                   />
                   如蜜的終宴<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/394f8bd051d08e35672d537087714a14.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/63a4bee0f6ae510268924b6b64766f42.png"
                     height="18"
                   />
                   華飾之兜<br />
@@ -3701,7 +3701,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/86f49e8b9825feb735ffae0d64b3772f.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/25281c921d73ad6736ed277839e854c7.png"
                 height="250"
               />
             </p>
@@ -3739,23 +3739,23 @@
                 <td>聖遺物<br />4 x 絕緣之旗印<br />1 x 飾金之夢<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/710df73fdf1d93dceecb4099180000de.png"
                     height="18"
                   />
                   明威之鐔<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/4b163d8b9b48b662cfafe2fed7f1f643.png"
                     height="18"
                   />
                   切落之羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c7f50d4eb974d790c931e0567c6e6f5f.png"
                     height="18"
                   />
                   雷雲之籠<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/c487dd0f5f3465b99238257879fa2285.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/08bc3475cab7d7b290403c96a437a148.png"
                     height="18"
                   />
                   如蜜的終宴<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/394f8bd051d08e35672d537087714a14.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/63a4bee0f6ae510268924b6b64766f42.png"
                     height="18"
                   />
                   華飾之兜<br />
@@ -3810,7 +3810,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0140a7153937f8d74c0ff279919aebb9.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/3ef1c7eea011b8594b449d70d401b8da.png"
                 height="250"
               />
             </p>
@@ -3848,23 +3848,23 @@
                 <td>聖遺物<br />4 x 昔日宗室之儀<br />1 x 深林的記憶<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b50d6b5b79de120610c205b9c36d44a7.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/016eaeaa205dabd5b55c5a7c479e0a15.png"
                     height="18"
                   />
                   宗室之花<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/6b41c04eeca8011e931b816f5e6ca4d9.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/7e5ecc4c61da7e3031863c5d181c1cae.png"
                     height="18"
                   />
                   翠蔓的智者<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/35d43d4e385007afabaa8a3c6d725883.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/5f967f4614139f5fddd2441088f76ed2.png"
                     height="18"
                   />
                   宗室時計<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/33b2bc73c4d2c5c2a04d9f7ee54f91b0.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/44ec359a63a2ad2f8cc401791af43685.png"
                     height="18"
                   />
                   宗室銀甕<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ab36ffe11e1c6003c5dba83c8e1e6b69.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/633b18832df8e3b0821c0210627f919d.png"
                     height="18"
                   />
                   宗室面具<br />
@@ -3919,7 +3919,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ecd3466fb75b3a9dc7e9409e210270cf.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/06e926dfefdb2ca054f69317883486df.png"
                 height="250"
               />
             </p>
@@ -3957,23 +3957,23 @@
                 <td>聖遺物<br />4 x 飾金之夢<br />1 x 昔日宗室之儀<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/90e332c28ab25e71930959b521738df4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/291f20e86ebbbd47f51978aa464f6f73.png"
                     height="18"
                   />
                   夢中的鐵花<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/3bff8203b4ef0cceadba1a864c18cb9d.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/4a61497ee9bc76507586addae1a3de19.png"
                     height="18"
                   />
                   裁斷的翎羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8b1704527554337890c97c85901e4f76.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/5c62eaad13a8e27d664058f7516349f8.png"
                     height="18"
                   />
                   沉金的歲月<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/33b2bc73c4d2c5c2a04d9f7ee54f91b0.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/44ec359a63a2ad2f8cc401791af43685.png"
                     height="18"
                   />
                   宗室銀甕<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/042041e7ed6e3fbd10f28b8d98d8a9d6.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/72852d4d405446ffb968ba64212c3b09.png"
                     height="18"
                   />
                   沙王的投影<br />
@@ -4028,7 +4028,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/f9f69250e2a86ecb9260b9479f903495.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/3f91c9f3b935c2275840e7467dce6259.png"
                 height="250"
               />
             </p>
@@ -4066,23 +4066,23 @@
                 <td>聖遺物<br />4 x 深林的記憶<br />1 x 飾金之夢<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ef0f22b833e9caf9acf875b07ef5ddb2.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/330433bae224aca0f5b44a053a9ece88.png"
                     height="18"
                   />
                   迷宮的遊人<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/6b41c04eeca8011e931b816f5e6ca4d9.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/7e5ecc4c61da7e3031863c5d181c1cae.png"
                     height="18"
                   />
                   翠蔓的智者<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/d80c10aac256a7b786bdd57e7f28feee.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/78d113a2e2ccd015d1e1d9fa4960d6d9.png"
                     height="18"
                   />
                   賢智的定期<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/417883235f38883a268a45ffe1e65af3.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/08013e4d585b5c0260972694af3a1ca5.png"
                     height="18"
                   />
                   迷誤者之燈<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/042041e7ed6e3fbd10f28b8d98d8a9d6.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/72852d4d405446ffb968ba64212c3b09.png"
                     height="18"
                   />
                   沙王的投影<br />
@@ -4137,7 +4137,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/baba88cda64a765c92b3f336c41492e8.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c2d4e9e4be820c0017c37dc654fe246e.png"
                 height="250"
               />
             </p>
@@ -4175,23 +4175,23 @@
                 <td>聖遺物<br />4 x 被憐愛的少女<br />1 x 絕緣之旗印<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0e02c941f04fc207460b18f82701d945.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/e99499c9f029d043c6bfa976ba270289.png"
                     height="18"
                   />
                   遠方的少女之心<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0b462e74e5cda44f2c0779bbda25c086.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/514bb60a5493a0bacace6ccaf1ebf3cc.png"
                     height="18"
                   />
                   少女飄搖的思念<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c7f50d4eb974d790c931e0567c6e6f5f.png"
                     height="18"
                   />
                   雷雲之籠<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/316e49f2bed401c93b52cc7c9bf50366.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/487182c20a6d02ba369807dc7ccf6488.png"
                     height="18"
                   />
                   少女片刻的閒暇<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/e879079adb8502dc3b1bdef76ac5ab8e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c9cd3d358642844c487076768cd1ebc8.png"
                     height="18"
                   />
                   少女易逝的芳顏<br />
@@ -4246,7 +4246,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/124ec09be630eda648e090426dc9530a.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/f57003f0e667b9060f7f281d125d0cc2.png"
                 height="250"
               />
             </p>
@@ -4284,11 +4284,11 @@
                 <td>聖遺物<br />2 x 飾金之夢<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/3bff8203b4ef0cceadba1a864c18cb9d.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/4a61497ee9bc76507586addae1a3de19.png"
                     height="18"
                   />
                   裁斷的翎羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/042041e7ed6e3fbd10f28b8d98d8a9d6.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/72852d4d405446ffb968ba64212c3b09.png"
                     height="18"
                   />
                   沙王的投影<br />
@@ -4343,7 +4343,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ecd3466fb75b3a9dc7e9409e210270cf.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/06e926dfefdb2ca054f69317883486df.png"
                 height="250"
               />
             </p>
@@ -4384,23 +4384,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/4dc35b15178b0dacec963806540ca9dd.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/034af5a0924994e93e335bc7a5585d8b.png"
                     height="18"
                   />
                   角鬥士的留戀<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/6b41c04eeca8011e931b816f5e6ca4d9.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/7e5ecc4c61da7e3031863c5d181c1cae.png"
                     height="18"
                   />
                   翠蔓的智者<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/d80c10aac256a7b786bdd57e7f28feee.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/78d113a2e2ccd015d1e1d9fa4960d6d9.png"
                     height="18"
                   />
                   賢智的定期<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/f78e77cb7cf193adc5dc3d53a2db67a7.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/03dcdd2c9c40b14fa2b4441e169ac9df.png"
                     height="18"
                   />
                   緋花之壺<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/f2c56efa44181cf904181300f32f252b.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/31f0c5dc33a84352e6de5f24c2d0b9a1.png"
                     height="18"
                   />
                   角鬥士的凱旋<br />
@@ -4455,7 +4455,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/c467e7ab563747f23a2edbbd62c63833.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/972dfebdd0b2cdf7969c2ebe6a657b1b.png"
                 height="250"
               />
             </p>
@@ -4493,23 +4493,23 @@
                 <td>聖遺物<br />3 x 絕緣之旗印<br />2 x 學士<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/710df73fdf1d93dceecb4099180000de.png"
                     height="18"
                   />
                   明威之鐔<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/4b163d8b9b48b662cfafe2fed7f1f643.png"
                     height="18"
                   />
                   切落之羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c7f50d4eb974d790c931e0567c6e6f5f.png"
                     height="18"
                   />
                   雷雲之籠<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/48f20dc7743348a9c133f441fd80d095.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/50eb2cff4c4e00798b3c66c0f668811b.png"
                     height="18"
                   />
                   學士的墨杯<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/c683892c8f180e17f3a5fb133a9c1006.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/781fcf3aeb67f8bc7db923d009a97672.png"
                     height="18"
                   />
                   學士的鏡片<br />
@@ -4564,7 +4564,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/c1b99f157792bebd0af61a6d6f0015ac.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/f28120273855ad72afde45edff4ef318.png"
                 height="250"
               />
             </p>
@@ -4602,23 +4602,23 @@
                 <td>聖遺物<br />4 x 絕緣之旗印<br />1 x 飾金之夢<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/a3db95d7e4ef035d887807fb44fca7c4.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/710df73fdf1d93dceecb4099180000de.png"
                     height="18"
                   />
                   明威之鐔<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0791ce8f428d74ad35512ccbd713de52.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/4b163d8b9b48b662cfafe2fed7f1f643.png"
                     height="18"
                   />
                   切落之羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0f0fd04a7034ae906bd1fecc3b3d1300.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c7f50d4eb974d790c931e0567c6e6f5f.png"
                     height="18"
                   />
                   雷雲之籠<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/f78e77cb7cf193adc5dc3d53a2db67a7.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/03dcdd2c9c40b14fa2b4441e169ac9df.png"
                     height="18"
                   />
                   緋花之壺<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/042041e7ed6e3fbd10f28b8d98d8a9d6.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/72852d4d405446ffb968ba64212c3b09.png"
                     height="18"
                   />
                   沙王的投影<br />
@@ -4673,7 +4673,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/2b90c81c624f52cb232d74088af97adf.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/508af2588e5c62f90e798629e51577a3.png"
                 height="250"
               />
             </p>
@@ -4714,23 +4714,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/cc36e07a2d44ecc1f270fe4048ec9758.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/6d64ca34fff68c7381f48e3c1bc6494d.png"
                     height="18"
                   />
                   勳績之花<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/eded317e0ef95690cb093dbfb3143118.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/659254e237e6983c453dfbb76d7d3404.png"
                     height="18"
                   />
                   謝落的筵席<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/06d39d50180def0b49670cf7c72600e5.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/e2a5f2f5ad08dd1a523216a1de9b8fce.png"
                     height="18"
                   />
                   夏祭之刻<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/06a078276b24439066cede1ca8b6e6ce.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/aece3faa93ec90608e0f2645ea0361fe.png"
                     height="18"
                   />
                   夏祭水玉<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b6c2297dfa81ce41a15f5f702b158323.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/7c5f7c98183bb30861e446db17bf6237.png"
                     height="18"
                   />
                   將帥兜鍪<br />
@@ -4785,7 +4785,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/60a84a1599d7b42e4a86318ba5ac8711.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/643be0aafa9dc8e32fefffa4c93b90ab.png"
                 height="250"
               />
             </p>
@@ -4825,23 +4825,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/cc36e07a2d44ecc1f270fe4048ec9758.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/6d64ca34fff68c7381f48e3c1bc6494d.png"
                     height="18"
                   />
                   勳績之花<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8ff44471344e183381a27283f273949f.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/7e06c2d88ca921cfb312f54bea65417b.png"
                     height="18"
                   />
                   學士的羽筆<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/0829d1544c68bcb5ea16d7bfbbc0f3fc.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/2f51430838834c7c13c3ea7ba121d84f.png"
                     height="18"
                   />
                   流放者懷錶<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/3ab312133cbf7e4a74e903c065807c88.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c5d6c2f5139cf3bbb27b2a36cc0618fe.png"
                     height="18"
                   />
                   流放者之杯<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b730678ec5d80a05d3700584dff46e10.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/a275d60cc41719444eeab804e40c884b.png"
                     height="18"
                   />
                   流放者頭冠<br />
@@ -4896,7 +4896,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/85c82d0a76efa0cce91c3c6c9455fd25.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/82179d10ce6e888c3face9932dda98bd.png"
                 height="250"
               />
             </p>
@@ -4934,23 +4934,23 @@
                 <td>聖遺物<br />5 x 教官<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/72dcf245ffe028506b692df4345e9475.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/e9d8b0d221c75f84409e93d7870f4c6e.png"
                     height="18"
                   />
                   教官的胸花<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/190a90386ed89ce2ebfbe61b6599bbb7.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/e07a2408a9fcd59a2ebebbf84058f2bc.png"
                     height="18"
                   />
                   教官的羽飾<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/97666ce86d5e603ecb0f24d2f99f2c18.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/5fc38e1c09ed4cfdb62e8ad7cc522bc4.png"
                     height="18"
                   />
                   教官的懷錶<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/56fb5189c3b274a71cee1fa0dccd7a71.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/3d5323d34beac21638286c38bb2159ab.png"
                     height="18"
                   />
                   教官的茶杯<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/153d01c598001d771b1f465502844941.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/4c33f96ef80ea34b5ce4b18fe2c03c75.png"
                     height="18"
                   />
                   教官的帽子<br />
@@ -5005,7 +5005,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/601019806707b68774d2f5744f468dca.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/54dcda35bcda7af36f5a4822c654d716.png"
                 height="250"
               />
             </p>
@@ -5043,7 +5043,7 @@
                 <td>聖遺物<br />1 x 流浪大地的樂團<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/76578394cc5bea5c8931c8f1ae9caf35.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/a853fa35fae998fe028aa3727443d5d1.png"
                     height="18"
                   />
                   吟遊者之壺<br />
@@ -5098,7 +5098,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/7c7532accd6cb6d978ca5508b5c9e6f0.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/6098925603d479280b1d916a1416d14e.png"
                 height="250"
               />
             </p>
@@ -5185,7 +5185,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/601019806707b68774d2f5744f468dca.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/54dcda35bcda7af36f5a4822c654d716.png"
                 height="250"
               />
             </p>
@@ -5272,7 +5272,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8b546341776d602be8909a1c75441f36.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/f4d2277e614a89b170144cb35bd20ae2.png"
                 height="250"
               />
             </p>
@@ -5359,7 +5359,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/4db3265f0f8d9361067407d252d79342.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/cade5ed6745316e92c001781369405ed.png"
                 height="250"
               />
             </p>
@@ -5399,23 +5399,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/cc36e07a2d44ecc1f270fe4048ec9758.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/6d64ca34fff68c7381f48e3c1bc6494d.png"
                     height="18"
                   />
                   勳績之花<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/bbf419fb2340557358e28de0a1dd199a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/bc2108ab4a9aac67419da380a51093dc.png"
                     height="18"
                   />
                   昭武翎羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8b1704527554337890c97c85901e4f76.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/5c62eaad13a8e27d664058f7516349f8.png"
                     height="18"
                   />
                   沉金的歲月<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ec0241e6bc4c1e0e39975a02a02b166f.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/dc45feddc1f7eb7a41132cdbe5b0d524.png"
                     height="18"
                   />
                   戰狂的骨杯<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b6c2297dfa81ce41a15f5f702b158323.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/7c5f7c98183bb30861e446db17bf6237.png"
                     height="18"
                   />
                   將帥兜鍪<br />
@@ -5470,7 +5470,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/7e15cab60d226e6750bfd4b69152f06d.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/0e9a3829ed6f8d49664f654f67926c8c.png"
                 height="250"
               />
             </p>
@@ -5557,7 +5557,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/7e15cab60d226e6750bfd4b69152f06d.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/0e9a3829ed6f8d49664f654f67926c8c.png"
                 height="250"
               />
             </p>
@@ -5644,7 +5644,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/d8a86bd1d7f208bff83ff34989d05b60.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/d09a14e83e4d474a6d1a4031c8a1de53.png"
                 height="250"
               />
             </p>
@@ -5731,7 +5731,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/7e15cab60d226e6750bfd4b69152f06d.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/0e9a3829ed6f8d49664f654f67926c8c.png"
                 height="250"
               />
             </p>
@@ -5771,19 +5771,19 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/fcc2eb011f8b4df975c064ed7cbc0a1a.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/68186985e3c58d7f2e10c166b807025b.png"
                     height="18"
                   />
                   冒險家之花<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/38ba5f3ad5e0819e2fd61e7b198988f8.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/58ef0b8361235054527c7216ddf7e2de.png"
                     height="18"
                   />
                   冒險家尾羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/21498dd7e37168a9ff0c01685c227aad.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/3c4a47df0bae670da55e4a0f95f25645.png"
                     height="18"
                   />
                   遊醫的懷鐘<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/173bc8ea9960162929cecbf89ff81f9e.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/d79d9ae0bc9d387b1b3cd5570a58f072.png"
                     height="18"
                   />
                   幸運兒銀冠<br />
@@ -5838,7 +5838,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/41254237e958f8b9f351c1255481e279.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/84817b7852605e71e5475c157d62c671.png"
                 height="250"
               />
             </p>
@@ -5878,23 +5878,23 @@
                 </td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/5e4ba056768e051f5ecab4a428fb9d89.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/8aabc1fc7691703143e27555f5929c06.png"
                     height="18"
                   />
                   戰狂的薔薇<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/736e6d26a118097b79068953f1be04ea.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/a9d4c7d985eb157c435e2778f4e50046.png"
                     height="18"
                   />
                   遊醫的梟羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/21498dd7e37168a9ff0c01685c227aad.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/3c4a47df0bae670da55e4a0f95f25645.png"
                     height="18"
                   />
                   遊醫的懷鐘<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b4b77a8ec987604e4788570c57ded77c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/289cf57f34c3ddd6b36e6a87a8860ef9.png"
                     height="18"
                   />
                   幸運兒之杯<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/189a41d7638e1ad4a1b9655dc679da9f.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/08e9d86283ce4ee58890a2cbd505e80b.png"
                     height="18"
                   />
                   戰狂的鬼面<br />
@@ -5949,7 +5949,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/baba88cda64a765c92b3f336c41492e8.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/c2d4e9e4be820c0017c37dc654fe246e.png"
                 height="250"
               />
             </p>
@@ -5987,23 +5987,23 @@
                 <td>聖遺物<br />2 x 幸運兒<br />3 x 遊醫<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/7e43b0c717e6880236789a8c16e93065.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/5fbd129e6fbe34939b0ba8c562b7743b.png"
                     height="18"
                   />
                   幸運兒綠花<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/736e6d26a118097b79068953f1be04ea.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/a9d4c7d985eb157c435e2778f4e50046.png"
                     height="18"
                   />
                   遊醫的梟羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/21498dd7e37168a9ff0c01685c227aad.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/3c4a47df0bae670da55e4a0f95f25645.png"
                     height="18"
                   />
                   遊醫的懷鐘<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/b4b77a8ec987604e4788570c57ded77c.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/289cf57f34c3ddd6b36e6a87a8860ef9.png"
                     height="18"
                   />
                   幸運兒之杯<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/055aadb0fa8300136b00defb5de42b54.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/a5673383e34d51dce69a793cccb082fa.png"
                     height="18"
                   />
                   遊醫的方巾<br />
@@ -6058,7 +6058,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8b546341776d602be8909a1c75441f36.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/f4d2277e614a89b170144cb35bd20ae2.png"
                 height="250"
               />
             </p>
@@ -6145,7 +6145,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/601019806707b68774d2f5744f468dca.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/54dcda35bcda7af36f5a4822c654d716.png"
                 height="250"
               />
             </p>
@@ -6232,7 +6232,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/ab34808fea991963493aca5887a35f7f.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/5195318f6ace9792b1305909e6b73a02.png"
                 height="250"
               />
             </p>
@@ -6270,23 +6270,23 @@
                 <td>聖遺物<br />2 x 遊醫<br />3 x 冒險家<br /></td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/70189fe0f5ee51c0394fdfcba5a2969d.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/9c33d389ed628e1cfedcbb46255121d9.png"
                     height="18"
                   />
                   遊醫的銀蓮<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/38ba5f3ad5e0819e2fd61e7b198988f8.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/58ef0b8361235054527c7216ddf7e2de.png"
                     height="18"
                   />
                   冒險家尾羽<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/21498dd7e37168a9ff0c01685c227aad.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/3c4a47df0bae670da55e4a0f95f25645.png"
                     height="18"
                   />
                   遊醫的懷鐘<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/1e73eae73f26e1be4b05bf5fa399b8d1.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/603fc9148e366b15cdcf333eb5d5cf55.png"
                     height="18"
                   />
                   冒險家金杯<br /><img
-                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/690c0602479991d210cf3dc0417ce373.png"
+                    src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/cc21e067563ec348d1347bd0162b58c3.png"
                     height="18"
                   />
                   冒險家頭帶<br />
@@ -6341,7 +6341,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8b546341776d602be8909a1c75441f36.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/f4d2277e614a89b170144cb35bd20ae2.png"
                 height="250"
               />
             </p>
@@ -6428,7 +6428,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/601019806707b68774d2f5744f468dca.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/54dcda35bcda7af36f5a4822c654d716.png"
                 height="250"
               />
             </p>
@@ -6515,7 +6515,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/88407cb7934bd262bd9bdae051a5d874.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/bc2b80fd0444f05cb3c3500533528d3d.png"
                 height="250"
               />
             </p>
@@ -6602,7 +6602,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/7c7532accd6cb6d978ca5508b5c9e6f0.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/6098925603d479280b1d916a1416d14e.png"
                 height="250"
               />
             </p>
@@ -6689,7 +6689,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/7c7532accd6cb6d978ca5508b5c9e6f0.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/6098925603d479280b1d916a1416d14e.png"
                 height="250"
               />
             </p>
@@ -6776,7 +6776,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/601019806707b68774d2f5744f468dca.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/54dcda35bcda7af36f5a4822c654d716.png"
                 height="250"
               />
             </p>
@@ -6863,7 +6863,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/d8a86bd1d7f208bff83ff34989d05b60.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/d09a14e83e4d474a6d1a4031c8a1de53.png"
                 height="250"
               />
             </p>
@@ -6950,7 +6950,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/d8a86bd1d7f208bff83ff34989d05b60.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/d09a14e83e4d474a6d1a4031c8a1de53.png"
                 height="250"
               />
             </p>
@@ -7037,7 +7037,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/d8a86bd1d7f208bff83ff34989d05b60.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/d09a14e83e4d474a6d1a4031c8a1de53.png"
                 height="250"
               />
             </p>
@@ -7124,7 +7124,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/d8a86bd1d7f208bff83ff34989d05b60.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/d09a14e83e4d474a6d1a4031c8a1de53.png"
                 height="250"
               />
             </p>
@@ -7211,7 +7211,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8b546341776d602be8909a1c75441f36.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/f4d2277e614a89b170144cb35bd20ae2.png"
                 height="250"
               />
             </p>
@@ -7298,7 +7298,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8b546341776d602be8909a1c75441f36.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/f4d2277e614a89b170144cb35bd20ae2.png"
                 height="250"
               />
             </p>
@@ -7385,7 +7385,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8b546341776d602be8909a1c75441f36.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/f4d2277e614a89b170144cb35bd20ae2.png"
                 height="250"
               />
             </p>
@@ -7472,7 +7472,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/8b546341776d602be8909a1c75441f36.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/f4d2277e614a89b170144cb35bd20ae2.png"
                 height="250"
               />
             </p>
@@ -7559,7 +7559,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f88e/7e15cab60d226e6750bfd4b69152f06d.png"
+                src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8f59e/0e9a3829ed6f8d49664f654f67926c8c.png"
                 height="250"
               />
             </p>
@@ -7631,26 +7631,26 @@
 <h2 align="center">原神角色展示</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_10_2023-08_11_29.png" />
+  <img src="images/showcase/genshin_card_25_10_2023-13_22_24.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_10_2023-08_11_30.png" />
+  <img src="images/showcase/genshin_card_25_10_2023-13_22_24.png" />
 </details>
 <h2 align="center">星鐵角色展示</h2>
 <details align="center">
   <summary>SilverWolf</summary>
-  <img src="images/showcase/Silver_Wolf_25_10_2023-08_12_07.png" />
+  <img src="images/showcase/Silver_Wolf_25_10_2023-13_23_03.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_25_10_2023-08_12_08.png" />
+  <img src="images/showcase/Dan_Heng_25_10_2023-13_23_03.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_25_10_2023-08_12_08.png" />
+  <img src="images/showcase/Seele_25_10_2023-13_23_04.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_25_10_2023-08_12_08.png" />
+  <img src="images/showcase/Asta_25_10_2023-13_23_04.png" />
 </details>
