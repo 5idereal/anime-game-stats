@@ -1,5 +1,5 @@
 <h1 align="center">原神 啟動</h1>
-<h3 align="center">🕒 更新於 <u>Oct 25, 2023 01:23 +0700</u></h3>
+<h3 align="center">🕒 更新於 <u>Oct 25, 2023 08:12 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -11,7 +11,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/5idereal_25_10_2023-01_23_27.png" />
+    <img src="images/profile/5idereal_25_10_2023-08_12_24.png" />
   </div>
   <div align="center">
     <h2><img src="images/icons/hsr_check_in.png" height="20" /> 每日獎勵</h2>
@@ -45,7 +45,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>167</td>
+        <td>168</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -2518,7 +2518,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/genshin_profile_25_10_2023-01_22_47.png" />
+    <img src="images/profile/genshin_profile_25_10_2023-08_11_54.png" />
   </div>
   <div align="center">
     <h2>
@@ -7631,26 +7631,26 @@
 <h2 align="center">原神角色展示</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_10_2023-01_22_24.png" />
+  <img src="images/showcase/genshin_card_25_10_2023-08_11_29.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_10_2023-01_22_25.png" />
+  <img src="images/showcase/genshin_card_25_10_2023-08_11_30.png" />
 </details>
 <h2 align="center">星鐵角色展示</h2>
 <details align="center">
   <summary>SilverWolf</summary>
-  <img src="images/showcase/Silver_Wolf_25_10_2023-01_23_01.png" />
+  <img src="images/showcase/Silver_Wolf_25_10_2023-08_12_07.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_25_10_2023-01_23_01.png" />
+  <img src="images/showcase/Dan_Heng_25_10_2023-08_12_08.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_25_10_2023-01_23_02.png" />
+  <img src="images/showcase/Seele_25_10_2023-08_12_08.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_25_10_2023-01_23_02.png" />
+  <img src="images/showcase/Asta_25_10_2023-08_12_08.png" />
 </details>
