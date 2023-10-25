@@ -1,5 +1,5 @@
 <h1 align="center">原神 啟動</h1>
-<h3 align="center">🕒 更新於 <u>Oct 25, 2023 13:23 +0700</u></h3>
+<h3 align="center">🕒 更新於 <u>Oct 25, 2023 20:19 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -11,7 +11,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/5idereal_25_10_2023-13_23_30.png" />
+    <img src="images/profile/5idereal_25_10_2023-20_19_08.png" />
   </div>
   <div align="center">
     <h2><img src="images/icons/hsr_check_in.png" height="20" /> 每日獎勵</h2>
@@ -2518,7 +2518,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/genshin_profile_25_10_2023-13_22_47.png" />
+    <img src="images/profile/genshin_profile_25_10_2023-20_18_29.png" />
   </div>
   <div align="center">
     <h2>
@@ -2989,7 +2989,7 @@
           />
           已賺取原石數
         </td>
-        <td>5497 (rate -30)</td>
+        <td>5557 (rate -29)</td>
       </tr>
       <tr>
         <td>
@@ -2999,13 +2999,13 @@
           />
           已賺取摩拉數
         </td>
-        <td>5231123 (rate -10)</td>
+        <td>5308698 (rate -8)</td>
       </tr>
       <tr>
         <td>類別</td>
         <td>
-          活動: 1830 (34%)<br />每日活躍: 1220 (23%)<br />信件: 690 (12%)<br />任務:
-          620 (11%)<br />冒險: 555 (10%)<br />深境螺旋: 450 (8%)<br />其他: 132
+          活動: 1830 (33%)<br />每日活躍: 1280 (24%)<br />信件: 690 (13%)<br />任務:
+          620 (11%)<br />冒險: 555 (9%)<br />深境螺旋: 450 (8%)<br />其他: 132
           (2%)<br />
         </td>
       </tr>
@@ -7631,26 +7631,26 @@
 <h2 align="center">原神角色展示</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_25_10_2023-13_22_24.png" />
+  <img src="images/showcase/genshin_card_25_10_2023-20_18_03.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_25_10_2023-13_22_24.png" />
+  <img src="images/showcase/genshin_card_25_10_2023-20_18_04.png" />
 </details>
 <h2 align="center">星鐵角色展示</h2>
 <details align="center">
   <summary>SilverWolf</summary>
-  <img src="images/showcase/Silver_Wolf_25_10_2023-13_23_03.png" />
+  <img src="images/showcase/Silver_Wolf_25_10_2023-20_18_50.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_25_10_2023-13_23_03.png" />
+  <img src="images/showcase/Dan_Heng_25_10_2023-20_18_50.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_25_10_2023-13_23_04.png" />
+  <img src="images/showcase/Seele_25_10_2023-20_18_50.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_25_10_2023-13_23_04.png" />
+  <img src="images/showcase/Asta_25_10_2023-20_18_51.png" />
 </details>
