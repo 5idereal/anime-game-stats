@@ -1,5 +1,5 @@
 <h1 align="center">原神 啟動</h1>
-<h3 align="center">🕒 更新於 <u>Oct 26, 2023 01:20 +0700</u></h3>
+<h3 align="center">🕒 更新於 <u>Oct 26, 2023 08:11 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -11,7 +11,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/5idereal_26_10_2023-01_20_49.png" />
+    <img src="images/profile/5idereal_26_10_2023-08_11_17.png" />
   </div>
   <div align="center">
     <h2><img src="images/icons/hsr_check_in.png" height="20" /> 每日獎勵</h2>
@@ -45,7 +45,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>168</td>
+        <td>169</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -69,7 +69,7 @@
         <td>
           <img src="images/icons/stellar_jade.png" height="18" />已賺取星瓊數
         </td>
-        <td>11188 (rate -21)</td>
+        <td>11308 (rate -20)</td>
       </tr>
       <tr>
         <td>
@@ -83,9 +83,9 @@
       <tr>
         <td>類別</td>
         <td>
-          每日活躍: 3600 (32%)<br />冒險獎勵: 2645 (23%)<br />活動獎勵: 1700
-          (15%)<br />忘卻之庭獎勵: 1400 (12%)<br />模擬宇宙獎勵: 1130 (10%)<br />郵件獎勵:
-          710 (6%)<br />其他: 3 (2%)<br />
+          每日活躍: 3660 (32%)<br />冒險獎勵: 2645 (23%)<br />活動獎勵: 1700
+          (15%)<br />忘卻之庭獎勵: 1400 (12%)<br />模擬宇宙獎勵: 1130 (9%)<br />郵件獎勵:
+          770 (6%)<br />其他: 3 (3%)<br />
         </td>
       </tr>
     </table>
@@ -2518,7 +2518,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/genshin_profile_26_10_2023-01_20_07.png" />
+    <img src="images/profile/genshin_profile_26_10_2023-08_10_46.png" />
   </div>
   <div align="center">
     <h2>
@@ -2558,7 +2558,7 @@
       </tr>
       <tr>
         <td>活躍天數</td>
-        <td>338</td>
+        <td>339</td>
       </tr>
       <tr>
         <td>Ta的角色</td>
@@ -2590,11 +2590,11 @@
       </tr>
       <tr>
         <td>普通的寶箱數</td>
-        <td>1980</td>
+        <td>1982</td>
       </tr>
       <tr>
         <td>精緻的寶箱數</td>
-        <td>1401</td>
+        <td>1403</td>
       </tr>
       <tr>
         <td>珍貴的寶箱數</td>
@@ -2989,7 +2989,7 @@
           />
           已賺取原石數
         </td>
-        <td>5557 (rate -29)</td>
+        <td>5637 (rate -28)</td>
       </tr>
       <tr>
         <td>
@@ -2999,13 +2999,13 @@
           />
           已賺取摩拉數
         </td>
-        <td>5308698 (rate -8)</td>
+        <td>5358698 (rate -7)</td>
       </tr>
       <tr>
         <td>類別</td>
         <td>
-          活動: 1830 (33%)<br />每日活躍: 1280 (24%)<br />信件: 690 (13%)<br />任務:
-          620 (11%)<br />冒險: 555 (9%)<br />深境螺旋: 450 (8%)<br />其他: 132
+          活動: 1910 (34%)<br />每日活躍: 1280 (23%)<br />信件: 690 (13%)<br />任務:
+          620 (11%)<br />冒險: 555 (10%)<br />深境螺旋: 450 (7%)<br />其他: 132
           (2%)<br />
         </td>
       </tr>
@@ -7631,26 +7631,26 @@
 <h2 align="center">原神角色展示</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_26_10_2023-01_19_42.png" />
+  <img src="images/showcase/genshin_card_26_10_2023-08_10_22.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_26_10_2023-01_19_43.png" />
+  <img src="images/showcase/genshin_card_26_10_2023-08_10_23.png" />
 </details>
 <h2 align="center">星鐵角色展示</h2>
 <details align="center">
   <summary>SilverWolf</summary>
-  <img src="images/showcase/Silver_Wolf_26_10_2023-01_20_22.png" />
+  <img src="images/showcase/Silver_Wolf_26_10_2023-08_11_00.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_26_10_2023-01_20_22.png" />
+  <img src="images/showcase/Dan_Heng_26_10_2023-08_11_00.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_26_10_2023-01_20_23.png" />
+  <img src="images/showcase/Seele_26_10_2023-08_11_00.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_26_10_2023-01_20_23.png" />
+  <img src="images/showcase/Asta_26_10_2023-08_11_01.png" />
 </details>
