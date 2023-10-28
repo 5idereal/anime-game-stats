@@ -1,5 +1,5 @@
 <h1 align="center">原神 啟動</h1>
-<h3 align="center">🕒 更新於 <u>Oct 27, 2023 08:50 +0700</u></h3>
+<h3 align="center">🕒 更新於 <u>Oct 28, 2023 08:47 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -11,24 +11,24 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/5idereal_27_10_2023-08_50_43.png" />
+    <img src="images/profile/5idereal_28_10_2023-08_47_22.png" />
   </div>
   <div align="center">
     <h2><img src="images/icons/hsr_check_in.png" height="20" /> 每日獎勵</h2>
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
         <td>
-          2 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/508229a94e4fa459651f64c1cd02687a_2622619536733353535.png"
             height="20"
           />
-          遺失晶塊
+          漫遊指南
         </td>
       </tr>
     </table>
@@ -53,7 +53,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>352</td>
+        <td>356</td>
       </tr>
       <tr>
         <td>開啟寶箱數</td>
@@ -69,7 +69,7 @@
         <td>
           <img src="images/icons/stellar_jade.png" height="18" />已賺取星瓊數
         </td>
-        <td>11308 (rate -20)</td>
+        <td>11718 (rate -17)</td>
       </tr>
       <tr>
         <td>
@@ -83,9 +83,9 @@
       <tr>
         <td>類別</td>
         <td>
-          每日活躍: 3660 (32%)<br />冒險獎勵: 2645 (23%)<br />活動獎勵: 1700
-          (15%)<br />忘卻之庭獎勵: 1400 (12%)<br />模擬宇宙獎勵: 1130 (9%)<br />郵件獎勵:
-          770 (6%)<br />其他: 3 (3%)<br />
+          每日活躍: 3720 (31%)<br />冒險獎勵: 2670 (22%)<br />活動獎勵: 1875
+          (16%)<br />忘卻之庭獎勵: 1400 (11%)<br />模擬宇宙獎勵: 1130 (9%)<br />郵件獎勵:
+          920 (7%)<br />其他: 3 (4%)<br />
         </td>
       </tr>
     </table>
@@ -131,7 +131,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4e1e255878cdf04cd998b1523a33a8cf.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/f4023fc05432451e992fd7504096980c.png"
               />
             </p>
           </td>
@@ -167,22 +167,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/87bf0f9323b69ad4ae02602d3cd9b472.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2188fc8a7e9dea5e1a992f0e0acb0cf8.png"
                     ,
                     height="18"
                   />
                   快槍手的野穗氈帽<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/5b55c9dbf3abfaa0e5d07579f382cf57.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/cd27a5caf53ff10ebbd5cf782073826f.png"
                     ,
                     height="18"
                   />
                   怪盜的繪紋手套<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d504df7a35c26306264815ddc0ed6f4a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2662abe678da33ebfe8ebe788e438656.png"
                     ,
                     height="18"
                   />
                   快槍手的獵風披肩<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/4500a00ef37c484a01fa55121c578e17.png"
                     ,
                     height="18"
                   />
@@ -193,12 +193,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/159025d8df71d1abe637a4df5ce36d61.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/05cbc2c96cd6aa2bf20ef430567dd46c.png"
                     ,
                     height="18"
                   />
                   薩爾索圖的移動城市<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6be2a567e59f3cc372c1e90dce85526a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5d11019a9425236f419efa4b0504eadd.png"
                     ,
                     height="18"
                   />
@@ -238,14 +238,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/93e9c8d5b413d4cbb6c5deaca8b7b3cb.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/76e7158b66b0d608d025a63d99a397e7.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/9e01214b60fd68a13792871cb08f8148.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/dd090cd1b917bcd5c103539479c5ce95.png"
               />
             </p>
           </td>
@@ -278,22 +278,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b11a77fb262d6925895bc646c61ae931.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c2923d10fe5d942e22d5ed02ff64dc14.png"
                     ,
                     height="18"
                   />
                   過客的逢春木簪<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d8183a02e156650c7070fcc51c0ce337.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5411cfe73a6143cc371a39748f6860d3.png"
                     ,
                     height="18"
                   />
                   過客的遊龍臂韝<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/73ab9ae76f9d10da9036cb0943315ff7.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d940bcf14568f6646c9b20607be5c189.png"
                     ,
                     height="18"
                   />
                   過客的殘繡風衣<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/dffc7aa0ab3b5cd5da41e0db6737b55b.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c83a5287503ad258c5ffe12f2ebded1c.png"
                     ,
                     height="18"
                   />
@@ -304,12 +304,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d61049a3ac349ef7a67eba6531cfeaf9.png"
                     ,
                     height="18"
                   />
                   羅浮仙舟的天外樓船<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/fd0e5533b6c12eaea2bf34be2cc77ed6.png"
                     ,
                     height="18"
                   />
@@ -349,14 +349,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/62a6512ae0f6475d72d308fb8dec634c.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/1b669459a266a7dcfa44b16fe924f69e.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1006bb9ae082a94fe8291f304c63958f.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/691c5b4f8a1fbe5d7f03f20a8588f273.png"
               />
             </p>
           </td>
@@ -389,22 +389,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8318ee15904846e48e20cc8e48d66db7.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/bcb4b411d93e39490e70975279d9e0d0.png"
                     ,
                     height="18"
                   />
                   信使的全像目鏡<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8c940b778a91bce719acd8486e4e18c1.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/4b6cacdd05a0a4913e02318a4613b40c.png"
                     ,
                     height="18"
                   />
                   信使的百變義手<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/49305ad8165d518c50951c04efcb518e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/3bcbfbc1822ce1b1422ad55688b43c05.png"
                     ,
                     height="18"
                   />
                   蒔者的承露羽衣<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1bfbcd142027a49a9e350bfec48202fa.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/40f8e5114f3bcc157abfd10b8b535107.png"
                     ,
                     height="18"
                   />
@@ -415,12 +415,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d61049a3ac349ef7a67eba6531cfeaf9.png"
                     ,
                     height="18"
                   />
                   羅浮仙舟的天外樓船<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/fd0e5533b6c12eaea2bf34be2cc77ed6.png"
                     ,
                     height="18"
                   />
@@ -460,14 +460,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b70456f0344e891eb90b24cd242922af.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/0c0b2dbfd1f9565aee9302044d60a6a5.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a51d8cb87e88cc7578dcb3cc7b287287.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/3e1a9934390465017b2f034d9f1e55fe.png"
               />
             </p>
           </td>
@@ -500,22 +500,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b11a77fb262d6925895bc646c61ae931.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c2923d10fe5d942e22d5ed02ff64dc14.png"
                     ,
                     height="18"
                   />
                   過客的逢春木簪<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d8183a02e156650c7070fcc51c0ce337.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5411cfe73a6143cc371a39748f6860d3.png"
                     ,
                     height="18"
                   />
                   過客的遊龍臂韝<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d504df7a35c26306264815ddc0ed6f4a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2662abe678da33ebfe8ebe788e438656.png"
                     ,
                     height="18"
                   />
                   快槍手的獵風披肩<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/4500a00ef37c484a01fa55121c578e17.png"
                     ,
                     height="18"
                   />
@@ -526,12 +526,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d61049a3ac349ef7a67eba6531cfeaf9.png"
                     ,
                     height="18"
                   />
                   羅浮仙舟的天外樓船<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/fd0e5533b6c12eaea2bf34be2cc77ed6.png"
                     ,
                     height="18"
                   />
@@ -571,14 +571,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/35a308c073616ed26f79b7d05b7ffbc1.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/be9880c30435f23da28b0adaccf71207.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/04174a6707dc350ace210951bbaf313f.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/dfd7ffa7c46ac00f9ccf463d6a0bf904.png"
               />
             </p>
           </td>
@@ -611,22 +611,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ef02377d559dbe794cdf94ebe9d52716.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/3d7be2673f45c4ef08dbc490df881752.png"
                     ,
                     height="18"
                   />
                   天才的超距遙感<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/25c230f6b5bf1e965fb5d240f6a2b1d7.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/1bcdd01661d2269ed8a2b5f24f7a767f.png"
                     ,
                     height="18"
                   />
                   天才的頻變捕手<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6032a2c200ab35acf785a1897bc2b214.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d79e7c3c628e8a3c9ba75931f4907c4c.png"
                     ,
                     height="18"
                   />
                   天才的元域深潛<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f489cfe667db5aee74ad71e7520a5d61.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/f48f90bac45da2ee34ec3068f8c91026.png"
                     ,
                     height="18"
                   />
@@ -637,12 +637,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/95c9e0a314d1185251917881ca148ac4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/47a82d8880df4c1ef26b10a94486dd9c.png"
                     ,
                     height="18"
                   />
                   泰科銨的雷射球場<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/0cc39dc119dd82e3a9ea4839200fde75.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c7d874bd140f9294c411d870a32d4a68.png"
                     ,
                     height="18"
                   />
@@ -682,14 +682,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/889801f76987dc969f54e8751e36024f.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2e11cffa0daf8bcf1e2c43aa19d01397.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1d485828acadbc9b0a8b4bdf2789bbc5.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/7bbb955b29689f0c4b688d339e6f05b9.png"
               />
             </p>
           </td>
@@ -722,22 +722,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/68ff50d65bd9a4471658b3b3fce63c7c.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/30c6a9e16dac2222724d52e3bbcf030d.png"
                     ,
                     height="18"
                   />
                   蒔者的復明義眼<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8c940b778a91bce719acd8486e4e18c1.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/4b6cacdd05a0a4913e02318a4613b40c.png"
                     ,
                     height="18"
                   />
                   信使的百變義手<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/224fcb0f41f664327c5930cddee7b2a9.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/6868a236428575d3ee796bf88a7e6975.png"
                     ,
                     height="18"
                   />
                   樂團的釘刺皮衣<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f489cfe667db5aee74ad71e7520a5d61.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/f48f90bac45da2ee34ec3068f8c91026.png"
                     ,
                     height="18"
                   />
@@ -748,12 +748,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d61049a3ac349ef7a67eba6531cfeaf9.png"
                     ,
                     height="18"
                   />
                   羅浮仙舟的天外樓船<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/fd0e5533b6c12eaea2bf34be2cc77ed6.png"
                     ,
                     height="18"
                   />
@@ -793,14 +793,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/651f564d8d8cccbffbd0a3ae8de49a4d.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/dc2a0ff355dd293354d040e669625b90.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7d8fee676f94041a5e1dc28c72c83e05.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/ab707144d1228149c2e486b6ee08f4a8.png"
               />
             </p>
           </td>
@@ -833,22 +833,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ef02377d559dbe794cdf94ebe9d52716.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/3d7be2673f45c4ef08dbc490df881752.png"
                     ,
                     height="18"
                   />
                   天才的超距遙感<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/25c230f6b5bf1e965fb5d240f6a2b1d7.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/1bcdd01661d2269ed8a2b5f24f7a767f.png"
                     ,
                     height="18"
                   />
                   天才的頻變捕手<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6032a2c200ab35acf785a1897bc2b214.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d79e7c3c628e8a3c9ba75931f4907c4c.png"
                     ,
                     height="18"
                   />
                   天才的元域深潛<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f489cfe667db5aee74ad71e7520a5d61.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/f48f90bac45da2ee34ec3068f8c91026.png"
                     ,
                     height="18"
                   />
@@ -859,12 +859,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/775964725115b06342a2202de18e097b.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/8a18498b1c9daacad49f80dc1eefa169.png"
                     ,
                     height="18"
                   />
                   翁瓦克的誕生之島<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/e5c9365b8dd98ffd4ce9e3b5ec6e9b29.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a9edf1652885bdfa0d9003db5617569b.png"
                     ,
                     height="18"
                   />
@@ -904,14 +904,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/741f1960f0b0548689fd7ca3cdef185b.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/930841452b046eeccc3771034d133257.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/cc4b126e0f88d5e265d303a05fffcf7a.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/8589ccf249e72a91bddbe8f6dc937b04.png"
               />
             </p>
           </td>
@@ -944,22 +944,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/bd1b7d6fa1db9d2cd9cf4ea519f6cac8.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/fc62df1a2e16309476871771255653fc.png"
                     ,
                     height="18"
                   />
                   樂團的偏光墨鏡<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d9ad04ac51bf76ec91c71ed8997ec568.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/0cfd3312836707ee0b44d39830b213f3.png"
                     ,
                     height="18"
                   />
                   樂團的巡演手繩<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/224fcb0f41f664327c5930cddee7b2a9.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/6868a236428575d3ee796bf88a7e6975.png"
                     ,
                     height="18"
                   />
                   樂團的釘刺皮衣<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4a2aa525ffbaa1e8203f6eb574710b96.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/56f8f0ce146b8ca50d10795b84f389b2.png"
                     ,
                     height="18"
                   />
@@ -970,12 +970,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/09dc4b95569f0fbbf85ca7a7fae70a41.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a1d6bb273f845ca07a8d96216afb29ed.png"
                     ,
                     height="18"
                   />
                   「黑塔」的太空站<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2fa18aacdfbd1a8c89913a458fe09b10.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/0a8ca951ba49277c8c4002c090c98937.png"
                     ,
                     height="18"
                   />
@@ -1015,14 +1015,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/caec4b602821569a82c698a60a2ce50b.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a6d612d4f98132feec3630228be69803.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d69bcc8262c84533e3216593e4c9af50.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/6fc10646010ad94a5b607965060c775b.png"
               />
             </p>
           </td>
@@ -1055,22 +1055,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ebbf9487c277ab725ec4e47895bb019d.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/95c04b5344d636d94169ece703674ec6.png"
                     ,
                     height="18"
                   />
                   拳王的冠軍護頭<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/5b55c9dbf3abfaa0e5d07579f382cf57.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/cd27a5caf53ff10ebbd5cf782073826f.png"
                     ,
                     height="18"
                   />
                   怪盜的繪紋手套<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ced74c8f12364c93519c3ae03c337e66.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/426b23bf342809d797d898bb5e4d0349.png"
                     ,
                     height="18"
                   />
                   怪盜的纖鋼爪鉤<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/906e01e4c3d9df89ee0ccf105a25fe8a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/cd63db498e5c9c208763cd6e37f68c2a.png"
                     ,
                     height="18"
                   />
@@ -1081,12 +1081,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/159025d8df71d1abe637a4df5ce36d61.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/05cbc2c96cd6aa2bf20ef430567dd46c.png"
                     ,
                     height="18"
                   />
                   薩爾索圖的移動城市<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6be2a567e59f3cc372c1e90dce85526a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5d11019a9425236f419efa4b0504eadd.png"
                     ,
                     height="18"
                   />
@@ -1126,14 +1126,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/5239c3979592fd6330082974215c48fd.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/76a2245d19dedc7d4a6965569940b7f7.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/82dd462303a89a94d93fd3411855700f.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d26580546961f2f9dc4e136e7f2fb0e7.png"
               />
             </p>
           </td>
@@ -1166,22 +1166,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ef02377d559dbe794cdf94ebe9d52716.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/3d7be2673f45c4ef08dbc490df881752.png"
                     ,
                     height="18"
                   />
                   天才的超距遙感<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/25c230f6b5bf1e965fb5d240f6a2b1d7.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/1bcdd01661d2269ed8a2b5f24f7a767f.png"
                     ,
                     height="18"
                   />
                   天才的頻變捕手<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6032a2c200ab35acf785a1897bc2b214.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d79e7c3c628e8a3c9ba75931f4907c4c.png"
                     ,
                     height="18"
                   />
                   天才的元域深潛<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f489cfe667db5aee74ad71e7520a5d61.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/f48f90bac45da2ee34ec3068f8c91026.png"
                     ,
                     height="18"
                   />
@@ -1192,12 +1192,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/159025d8df71d1abe637a4df5ce36d61.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/05cbc2c96cd6aa2bf20ef430567dd46c.png"
                     ,
                     height="18"
                   />
                   薩爾索圖的移動城市<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6be2a567e59f3cc372c1e90dce85526a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5d11019a9425236f419efa4b0504eadd.png"
                     ,
                     height="18"
                   />
@@ -1237,14 +1237,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/63bce564ac550300e6b93f05e95759f9.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/07e2d811eb033b5f9b4aa0eaacf576e0.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/38a7a343def3d4612fa4004abdb23a61.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a4800e1089cf5dbc9f964c72120adb80.png"
               />
             </p>
           </td>
@@ -1277,22 +1277,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ebbf9487c277ab725ec4e47895bb019d.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/95c04b5344d636d94169ece703674ec6.png"
                     ,
                     height="18"
                   />
                   拳王的冠軍護頭<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/eac4171dc524f344d76efc0c5a59aeb9.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/616b9aac46a02f3659c9953c34cf1366.png"
                     ,
                     height="18"
                   />
                   拳王的重炮拳套<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/10ca776caa662dfb40c6d8fd9ac1f206.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c33a1b4883d961bfaa73f63e247ab961.png"
                     ,
                     height="18"
                   />
                   拳王的貼身護胸<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/906e01e4c3d9df89ee0ccf105a25fe8a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/cd63db498e5c9c208763cd6e37f68c2a.png"
                     ,
                     height="18"
                   />
@@ -1303,12 +1303,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/09dc4b95569f0fbbf85ca7a7fae70a41.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a1d6bb273f845ca07a8d96216afb29ed.png"
                     ,
                     height="18"
                   />
                   「黑塔」的太空站<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2fa18aacdfbd1a8c89913a458fe09b10.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/0a8ca951ba49277c8c4002c090c98937.png"
                     ,
                     height="18"
                   />
@@ -1348,7 +1348,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/351f0436aa452d5d6367a4d1cb2dbf77.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2f9cd49c0f975df86388f6c07e0e8c81.png"
               />
             </p>
           </td>
@@ -1417,14 +1417,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f36b2110281773cc26976b1163ab112b.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/9312f81a47c025e27bb113bcd2219164.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/312ee2a317a277fa6eb0c75256f30824.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/0b46582517035842dd766322b0ad7a66.png"
               />
             </p>
           </td>
@@ -1457,22 +1457,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/87bf0f9323b69ad4ae02602d3cd9b472.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2188fc8a7e9dea5e1a992f0e0acb0cf8.png"
                     ,
                     height="18"
                   />
                   快槍手的野穗氈帽<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/56efca6c97c906d8e0fe507f874354e4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5e43901d0f56d7e39b7f10dd389607c3.png"
                     ,
                     height="18"
                   />
                   快槍手的粗革手套<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/d504df7a35c26306264815ddc0ed6f4a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2662abe678da33ebfe8ebe788e438656.png"
                     ,
                     height="18"
                   />
                   快槍手的獵風披肩<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/4500a00ef37c484a01fa55121c578e17.png"
                     ,
                     height="18"
                   />
@@ -1483,12 +1483,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/775964725115b06342a2202de18e097b.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/8a18498b1c9daacad49f80dc1eefa169.png"
                     ,
                     height="18"
                   />
                   翁瓦克的誕生之島<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/e5c9365b8dd98ffd4ce9e3b5ec6e9b29.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a9edf1652885bdfa0d9003db5617569b.png"
                     ,
                     height="18"
                   />
@@ -1528,14 +1528,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/dcad49e78f93d548f094b9b3193300b5.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/60cbf90fa3fba5e4e729f5008772aa15.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/caa017f211398442b4860158b630daa9.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/394b2e663ddbd64c7e8273fedeabe629.png"
               />
             </p>
           </td>
@@ -1568,22 +1568,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8318ee15904846e48e20cc8e48d66db7.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/bcb4b411d93e39490e70975279d9e0d0.png"
                     ,
                     height="18"
                   />
                   信使的全像目鏡<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/8c940b778a91bce719acd8486e4e18c1.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/4b6cacdd05a0a4913e02318a4613b40c.png"
                     ,
                     height="18"
                   />
                   信使的百變義手<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ef3248255b3cb430865e5dcdfe32b28f.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/7dbde2f8cce58a9a32aa950b352b31bd.png"
                     ,
                     height="18"
                   />
                   信使的密信單肩包<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/fd3ca655e59b8f41675451200c0f9c3e.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/73ece7261aabe8f7739ea8c61ccbc280.png"
                     ,
                     height="18"
                   />
@@ -1594,12 +1594,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e020ac594b5b8efeef38bcbf8efbfd6.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/d61049a3ac349ef7a67eba6531cfeaf9.png"
                     ,
                     height="18"
                   />
                   羅浮仙舟的天外樓船<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/fd0e5533b6c12eaea2bf34be2cc77ed6.png"
                     ,
                     height="18"
                   />
@@ -1639,14 +1639,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/f3ff590ad6a5073762bb1685016185c4.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/65f9f2e9154d859052246ddfd0651572.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b5451c79defe0eb47238793bf02bd620.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/e8bc78a2bf1f23605d1157e14901d489.png"
               />
             </p>
           </td>
@@ -1679,22 +1679,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4f502bed64101e58c35e1d4620988d79.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/ab6884e7b1375e18c170e80f13304371.png"
                     ,
                     height="18"
                   />
                   翔鷹的長喙頭盔<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/56efca6c97c906d8e0fe507f874354e4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5e43901d0f56d7e39b7f10dd389607c3.png"
                     ,
                     height="18"
                   />
                   快槍手的粗革手套<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/3e0bb26c292f5bce863296450cbcfca5.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/98a30f9514a8726bf5ebaac9203b3e32.png"
                     ,
                     height="18"
                   />
                   翔鷹的翼裝束帶<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/15d9ed12ae39f38e80ce44e44e491e02.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/4500a00ef37c484a01fa55121c578e17.png"
                     ,
                     height="18"
                   />
@@ -1705,12 +1705,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/159025d8df71d1abe637a4df5ce36d61.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/05cbc2c96cd6aa2bf20ef430567dd46c.png"
                     ,
                     height="18"
                   />
                   薩爾索圖的移動城市<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/6be2a567e59f3cc372c1e90dce85526a.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5d11019a9425236f419efa4b0504eadd.png"
                     ,
                     height="18"
                   />
@@ -1750,14 +1750,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b47d6a3fc73eb0e793a416bd227de6f4.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c4941902be83f4b5bc8be5d73218d21f.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1e8fba2c6292c460e7fdbde2fa1ae973.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/2916ee044baadc522cc9836aa06dc423.png"
               />
             </p>
           </td>
@@ -1790,22 +1790,22 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/a5e6713084c378f6f9d622ef08309909.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/ca2595b9a70989b3961096797a7b2167.png"
                     ,
                     height="18"
                   />
                   聖騎的寬恕盔面<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1d70e2157486cda37c93fa53bc696c6b.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/e8b567cd5ff1fc1c0de1680b8b82226f.png"
                     ,
                     height="18"
                   />
                   聖騎的沉默誓環<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4f29e53fcddf70cec20b3808a946fe13.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/caba9340835c01a702f9c720d9cab87b.png"
                     ,
                     height="18"
                   />
                   聖騎的肅穆胸甲<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/bed9e7435755032e24ff929d2e619054.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a8229a8e441cae5619350bef67326c5a.png"
                     ,
                     height="18"
                   />
@@ -1816,12 +1816,12 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/26a9f781c631202e087a6e18039438db.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/9f01330e8eaf0680829032fd9bb1f116.png"
                     ,
                     height="18"
                   />
                   貝洛伯格的存護堡壘<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/dc2625da18cc7faf688cbb69e1f1f400.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c3c73126e3b0e697a2d9126ebb13e097.png"
                     ,
                     height="18"
                   />
@@ -1861,14 +1861,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/281455e4018e6fba97fc7d3f23792bab.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a11dce6f3a57608a64000393af261474.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/1f634860aa9f94e320ed15f6fc9ae6a6.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/76ac892760b71152f28d83fb085a4a3e.png"
               />
             </p>
           </td>
@@ -1901,12 +1901,12 @@
                 <td>遺器</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/62c63f7d7a254a33175d6965fb4118cd.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/a047930c71ac3a5ba5fec1de9b7cb558.png"
                     ,
                     height="18"
                   />
                   怪盜的千人假面<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/56efca6c97c906d8e0fe507f874354e4.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5e43901d0f56d7e39b7f10dd389607c3.png"
                     ,
                     height="18"
                   />
@@ -1917,7 +1917,7 @@
                 <td>飾品</td>
                 <td>
                   <img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/edc1ea6f1377e02d0a90bd65d38e25fc.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/fd0e5533b6c12eaea2bf34be2cc77ed6.png"
                     ,
                     height="18"
                   />
@@ -1957,14 +1957,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/4ff9b312df9c47c3ac333c242b633760.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/b90b92eeaa6a0b40880aea1015556ce8.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/7c9af121d05f8009ff461c6f8fcdec93.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/073076908260d11efef013bc0e164597.png"
               />
             </p>
           </td>
@@ -2030,7 +2030,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/ba9ce4ddc5c06bd27c094af1d129bd91.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/7728d7958b469ea975c8140a38071d26.png"
               />
             </p>
           </td>
@@ -2099,14 +2099,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b0bf597954f1b8acb83a02d6d22989ce.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/5e28fa2f488ebc183a57c2e449edbcfe.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/29afaa1293979d650bf15899427b9138.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/c28f8671ab7627b93f33c7115ff8cfd8.png"
               />
             </p>
           </td>
@@ -2172,14 +2172,14 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/44571ef951bc3025f1df9c844846cde1.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/8852cbb91d237e6455bf399926af8048.png"
               />
             </p>
           </td>
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/9779d15fd128e233c228cd9d30c4834e.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/b2e0b94d1e412dae3b084de185ac4746.png"
               />
             </p>
           </td>
@@ -2245,7 +2245,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/b1a73be5160fc015d7add1491bf80ea1.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/9ebc6095d27bfab6f7152311874c3d05.png"
               />
             </p>
           </td>
@@ -2314,7 +2314,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/2466b439be15b34048f7f881976e926b.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/63f034197d500872e03aa572a6696947.png"
               />
             </p>
           </td>
@@ -2383,7 +2383,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/83c9d5f434555dd91ae4989d56c9535d.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/7e4bafc3440e3295f3c069285c875a61.png"
               />
             </p>
           </td>
@@ -2452,7 +2452,7 @@
           <td>
             <p align="center">
               <img
-                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_74e730/89cde6573d363bd5b0986e080983d699.png"
+                src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/b2704f7d976850261cf11957f0ff258c.png"
               />
             </p>
           </td>
@@ -2518,7 +2518,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/genshin_profile_27_10_2023-08_50_17.png" />
+    <img src="images/profile/genshin_profile_28_10_2023-08_46_50.png" />
   </div>
   <div align="center">
     <h2>
@@ -2527,17 +2527,17 @@
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>27</td>
+        <td>28</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
         <td>
           3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
             height="20"
           />
-          冒險家的經驗
+          大英雄的經驗
         </td>
       </tr>
     </table>
@@ -2558,7 +2558,7 @@
       </tr>
       <tr>
         <td>活躍天數</td>
-        <td>339</td>
+        <td>340</td>
       </tr>
       <tr>
         <td>Ta的角色</td>
@@ -2586,7 +2586,7 @@
       </tr>
       <tr>
         <td>Hydroculi</td>
-        <td>109</td>
+        <td>110</td>
       </tr>
       <tr>
         <td>普通的寶箱數</td>
@@ -2594,7 +2594,7 @@
       </tr>
       <tr>
         <td>精緻的寶箱數</td>
-        <td>1403</td>
+        <td>1405</td>
       </tr>
       <tr>
         <td>珍貴的寶箱數</td>
@@ -2602,7 +2602,7 @@
       </tr>
       <tr>
         <td>華麗的寶箱數</td>
-        <td>159</td>
+        <td>160</td>
       </tr>
       <tr>
         <td>奇饋寶箱數</td>
@@ -2729,7 +2729,7 @@
             <tr>
               <td>已探索</td>
               <td>
-                <img src="https://progress-bar.dev/85/" width="80" />
+                <img src="https://progress-bar.dev/86/" width="80" />
               </td>
             </tr>
             <tr>
@@ -2989,7 +2989,7 @@
           />
           已賺取原石數
         </td>
-        <td>5771 (rate -26)</td>
+        <td>5931 (rate -24)</td>
       </tr>
       <tr>
         <td>
@@ -2999,13 +2999,13 @@
           />
           已賺取摩拉數
         </td>
-        <td>5452673 (rate -6)</td>
+        <td>5566997 (rate -4)</td>
       </tr>
       <tr>
         <td>類別</td>
         <td>
-          活動: 1910 (34%)<br />每日活躍: 1340 (24%)<br />任務: 680 (12%)<br />信件:
-          690 (12%)<br />冒險: 569 (9%)<br />深境螺旋: 450 (7%)<br />其他: 132
+          活動: 1990 (34%)<br />每日活躍: 1400 (24%)<br />任務: 680 (12%)<br />信件:
+          690 (12%)<br />冒險: 589 (9%)<br />深境螺旋: 450 (7%)<br />其他: 132
           (2%)<br />
         </td>
       </tr>
@@ -7631,26 +7631,26 @@
 <h2 align="center">原神角色展示</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_27_10_2023-08_49_54.png" />
+  <img src="images/showcase/genshin_card_28_10_2023-08_46_27.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_27_10_2023-08_49_55.png" />
+  <img src="images/showcase/genshin_card_28_10_2023-08_46_28.png" />
 </details>
 <h2 align="center">星鐵角色展示</h2>
 <details align="center">
   <summary>SilverWolf</summary>
-  <img src="images/showcase/Silver_Wolf_27_10_2023-08_50_29.png" />
+  <img src="images/showcase/Silver_Wolf_28_10_2023-08_47_05.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_27_10_2023-08_50_30.png" />
+  <img src="images/showcase/Dan_Heng_28_10_2023-08_47_05.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_27_10_2023-08_50_30.png" />
+  <img src="images/showcase/Seele_28_10_2023-08_47_06.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_27_10_2023-08_50_30.png" />
+  <img src="images/showcase/Asta_28_10_2023-08_47_06.png" />
 </details>
