@@ -1,5 +1,5 @@
 <h1 align="center">原神 啟動</h1>
-<h3 align="center">🕒 更新於 <u>Oct 30, 2023 08:53 +0700</u></h3>
+<h3 align="center">🕒 更新於 <u>Oct 31, 2023 08:52 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -11,14 +11,14 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/5idereal_30_10_2023-08_53_31.png" />
+    <img src="images/profile/5idereal_31_10_2023-08_52_49.png" />
   </div>
   <div align="center">
     <h2><img src="images/icons/hsr_check_in.png" height="20" /> 每日獎勵</h2>
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
@@ -45,7 +45,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>173</td>
+        <td>174</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -53,7 +53,7 @@
       </tr>
       <tr>
         <td>Total Achievement</td>
-        <td>356</td>
+        <td>358</td>
       </tr>
       <tr>
         <td>開啟寶箱數</td>
@@ -69,7 +69,7 @@
         <td>
           <img src="images/icons/stellar_jade.png" height="18" />已賺取星瓊數
         </td>
-        <td>12083 (rate -15)</td>
+        <td>13073 (rate -8)</td>
       </tr>
       <tr>
         <td>
@@ -83,10 +83,31 @@
       <tr>
         <td>類別</td>
         <td>
-          每日活躍: 3840 (31%)<br />冒險獎勵: 2670 (22%)<br />活動獎勵: 2120
-          (17%)<br />忘卻之庭獎勵: 1400 (11%)<br />模擬宇宙獎勵: 1130 (9%)<br />郵件獎勵:
-          920 (7%)<br />其他: 3 (3%)<br />
+          每日活躍: 3960 (30%)<br />冒險獎勵: 2685 (20%)<br />活動獎勵: 2240
+          (17%)<br />忘卻之庭獎勵: 1940 (14%)<br />模擬宇宙獎勵: 1325 (10%)<br />郵件獎勵:
+          920 (7%)<br />其他: 3 (2%)<br />
         </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center">
+    <h2>渾沌回憶</h2>
+    <table>
+      <tr>
+        <td>賽季</td>
+        <td>1005</td>
+      </tr>
+      <tr>
+        <td>最深層數</td>
+        <td>建木降臨其九</td>
+      </tr>
+      <tr>
+        <td>總戰鬥次數</td>
+        <td>13</td>
+      </tr>
+      <tr>
+        <td>總星數</td>
+        <td>27</td>
       </tr>
     </table>
   </div>
@@ -2497,7 +2518,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/genshin_profile_30_10_2023-08_53_05.png" />
+    <img src="images/profile/genshin_profile_31_10_2023-08_52_23.png" />
   </div>
   <div align="center">
     <h2>
@@ -2506,7 +2527,7 @@
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>30</td>
+        <td>31</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
@@ -2537,7 +2558,7 @@
       </tr>
       <tr>
         <td>活躍天數</td>
-        <td>342</td>
+        <td>344</td>
       </tr>
       <tr>
         <td>Ta的角色</td>
@@ -2573,11 +2594,11 @@
       </tr>
       <tr>
         <td>精緻的寶箱數</td>
-        <td>1405</td>
+        <td>1407</td>
       </tr>
       <tr>
         <td>珍貴的寶箱數</td>
-        <td>435</td>
+        <td>436</td>
       </tr>
       <tr>
         <td>華麗的寶箱數</td>
@@ -2878,16 +2899,6 @@
         <td>出戰次數</td>
         <td>
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
-            ,
-            height="18"
-          />
-          瑤瑤 (9)<br /><img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-            ,
-            height="18"
-          />
-          班尼特 (9)<br /><img
             src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
             ,
             height="18"
@@ -2897,7 +2908,17 @@
             ,
             height="18"
           />
-          妮露 (9)<br />
+          妮露 (9)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+            ,
+            height="18"
+          />
+          香菱 (9)<br /><img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+            ,
+            height="18"
+          />
+          納西妲 (9)<br />
         </td>
       </tr>
       <tr>
@@ -2968,7 +2989,7 @@
           />
           已賺取原石數
         </td>
-        <td>6501 (rate -17)</td>
+        <td>6581 (rate -16)</td>
       </tr>
       <tr>
         <td>
@@ -2978,13 +2999,13 @@
           />
           已賺取摩拉數
         </td>
-        <td>6057421 (rate 4)</td>
+        <td>6231114 (rate 7)</td>
       </tr>
       <tr>
         <td>類別</td>
         <td>
-          活動: 1990 (31%)<br />每日活躍: 1520 (24%)<br />深境螺旋: 900 (14%)<br />任務:
-          680 (10%)<br />信件: 690 (10%)<br />冒險: 589 (9%)<br />其他: 132
+          活動: 1990 (31%)<br />每日活躍: 1580 (25%)<br />深境螺旋: 900 (13%)<br />任務:
+          680 (10%)<br />信件: 690 (10%)<br />冒險: 609 (9%)<br />其他: 132
           (2%)<br />
         </td>
       </tr>
@@ -7610,26 +7631,26 @@
 <h2 align="center">原神角色展示</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_30_10_2023-08_52_43.png" />
+  <img src="images/showcase/genshin_card_31_10_2023-08_51_59.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_30_10_2023-08_52_44.png" />
+  <img src="images/showcase/genshin_card_31_10_2023-08_52_00.png" />
 </details>
 <h2 align="center">星鐵角色展示</h2>
 <details align="center">
   <summary>SilverWolf</summary>
-  <img src="images/showcase/Silver_Wolf_30_10_2023-08_53_18.png" />
+  <img src="images/showcase/Silver_Wolf_31_10_2023-08_52_36.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_30_10_2023-08_53_19.png" />
+  <img src="images/showcase/Dan_Heng_31_10_2023-08_52_36.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_30_10_2023-08_53_19.png" />
+  <img src="images/showcase/Seele_31_10_2023-08_52_37.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_30_10_2023-08_53_19.png" />
+  <img src="images/showcase/Asta_31_10_2023-08_52_37.png" />
 </details>
