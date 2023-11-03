@@ -1,5 +1,5 @@
 <h1 align="center">原神 啟動</h1>
-<h3 align="center">🕒 更新於 <u>Nov 02, 2023 08:52 +0700</u></h3>
+<h3 align="center">🕒 更新於 <u>Nov 03, 2023 08:52 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -11,24 +11,24 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/5idereal_02_11_2023-08_52_06.png" />
+    <img src="images/profile/5idereal_03_11_2023-08_52_45.png" />
   </div>
   <div align="center">
     <h2><img src="images/icons/hsr_check_in.png" height="20" /> 每日獎勵</h2>
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
         <td>
-          1 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
             height="20"
           />
-          凝縮以太
+          信用點
         </td>
       </tr>
     </table>
@@ -45,7 +45,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>176</td>
+        <td>177</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -2518,7 +2518,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/genshin_profile_02_11_2023-08_51_36.png" />
+    <img src="images/profile/genshin_profile_03_11_2023-08_52_19.png" />
   </div>
   <div align="center">
     <h2>
@@ -2527,17 +2527,17 @@
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>2</td>
+        <td>3</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
         <td>
-          3 x
+          5000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          精鍛用良礦
+          摩拉
         </td>
       </tr>
     </table>
@@ -2554,11 +2554,11 @@
     <table>
       <tr>
         <td>成就達成數</td>
-        <td>796</td>
+        <td>797</td>
       </tr>
       <tr>
         <td>活躍天數</td>
-        <td>346</td>
+        <td>347</td>
       </tr>
       <tr>
         <td>Ta的角色</td>
@@ -2989,7 +2989,7 @@
           />
           已賺取原石數
         </td>
-        <td>90 (rate -98)</td>
+        <td>150 (rate -97)</td>
       </tr>
       <tr>
         <td>
@@ -2999,12 +2999,12 @@
           />
           已賺取摩拉數
         </td>
-        <td>39992 (rate -99)</td>
+        <td>80467 (rate -98)</td>
       </tr>
       <tr>
         <td>類別</td>
         <td>
-          每日活躍: 60 (67%)<br />信件: 30 (33%)<br />活動: 0 (0%)<br />深境螺旋:
+          每日活躍: 120 (80%)<br />信件: 30 (20%)<br />活動: 0 (0%)<br />深境螺旋:
           0 (0%)<br />任務: 0 (0%)<br />冒險: 0 (0%)<br />其他: 0 (0%)<br />
         </td>
       </tr>
@@ -7630,26 +7630,26 @@
 <h2 align="center">原神角色展示</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_02_11_2023-08_51_11.png" />
+  <img src="images/showcase/genshin_card_03_11_2023-08_51_54.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_02_11_2023-08_51_12.png" />
+  <img src="images/showcase/genshin_card_03_11_2023-08_51_55.png" />
 </details>
 <h2 align="center">星鐵角色展示</h2>
 <details align="center">
   <summary>SilverWolf</summary>
-  <img src="images/showcase/Silver_Wolf_02_11_2023-08_51_51.png" />
+  <img src="images/showcase/Silver_Wolf_03_11_2023-08_52_30.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_02_11_2023-08_51_51.png" />
+  <img src="images/showcase/Dan_Heng_03_11_2023-08_52_31.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_02_11_2023-08_51_52.png" />
+  <img src="images/showcase/Seele_03_11_2023-08_52_31.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_02_11_2023-08_51_52.png" />
+  <img src="images/showcase/Asta_03_11_2023-08_52_31.png" />
 </details>
