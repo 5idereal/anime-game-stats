@@ -1,5 +1,5 @@
 <h1 align="center">原神 啟動</h1>
-<h3 align="center">🕒 更新於 <u>Nov 04, 2023 08:52 +0700</u></h3>
+<h3 align="center">🕒 更新於 <u>Nov 05, 2023 08:56 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -11,24 +11,24 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/5idereal_04_11_2023-08_51_48.png" />
+    <img src="images/profile/5idereal_05_11_2023-08_56_50.png" />
   </div>
   <div align="center">
     <h2><img src="images/icons/hsr_check_in.png" height="20" /> 每日獎勵</h2>
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
         <td>
-          1 x
+          20 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
             height="20"
           />
-          罐裝快樂水
+          星瓊
         </td>
       </tr>
     </table>
@@ -45,7 +45,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>178</td>
+        <td>179</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -737,11 +737,11 @@
                     height="18"
                   />
                   信使的密信單肩包<br /><img
-                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/f48f90bac45da2ee34ec3068f8c91026.png"
+                    src="https://act.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_733e72/73ece7261aabe8f7739ea8c61ccbc280.png"
                     ,
                     height="18"
                   />
-                  天才的引力漫步<br />
+                  信使的酷跑板鞋<br />
                 </td>
               </tr>
               <tr>
@@ -2518,7 +2518,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/genshin_profile_04_11_2023-08_51_18.png" />
+    <img src="images/profile/genshin_profile_05_11_2023-08_56_25.png" />
   </div>
   <div align="center">
     <h2>
@@ -2527,17 +2527,17 @@
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>4</td>
+        <td>5</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
         <td>
-          20 x
+          3 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+            src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
             height="20"
           />
-          原石
+          甜甜花釀雞
         </td>
       </tr>
     </table>
@@ -2554,11 +2554,11 @@
     <table>
       <tr>
         <td>成就達成數</td>
-        <td>797</td>
+        <td>798</td>
       </tr>
       <tr>
         <td>活躍天數</td>
-        <td>348</td>
+        <td>349</td>
       </tr>
       <tr>
         <td>Ta的角色</td>
@@ -7630,26 +7630,26 @@
 <h2 align="center">原神角色展示</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_04_11_2023-08_50_53.png" />
+  <img src="images/showcase/genshin_card_05_11_2023-08_56_02.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_04_11_2023-08_50_53.png" />
+  <img src="images/showcase/genshin_card_05_11_2023-08_56_03.png" />
 </details>
 <h2 align="center">星鐵角色展示</h2>
 <details align="center">
   <summary>SilverWolf</summary>
-  <img src="images/showcase/Silver_Wolf_04_11_2023-08_51_33.png" />
+  <img src="images/showcase/Silver_Wolf_05_11_2023-08_56_38.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_04_11_2023-08_51_33.png" />
+  <img src="images/showcase/Dan_Heng_05_11_2023-08_56_39.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_04_11_2023-08_51_33.png" />
+  <img src="images/showcase/Seele_05_11_2023-08_56_39.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_04_11_2023-08_51_34.png" />
+  <img src="images/showcase/Asta_05_11_2023-08_56_40.png" />
 </details>
