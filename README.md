@@ -1,5 +1,5 @@
 <h1 align="center">原神 啟動</h1>
-<h3 align="center">🕒 更新於 <u>Nov 06, 2023 08:55 +0700</u></h3>
+<h3 align="center">🕒 更新於 <u>Nov 07, 2023 08:54 +0700</u></h3>
 <br />
 
 <details align="center">
@@ -11,24 +11,24 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/5idereal_06_11_2023-08_55_50.png" />
+    <img src="images/profile/5idereal_07_11_2023-08_54_30.png" />
   </div>
   <div align="center">
     <h2><img src="images/icons/hsr_check_in.png" height="20" /> 每日獎勵</h2>
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
         <td>
-          2 x
+          1 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+            src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
             height="20"
           />
-          冒險記錄
+          凝縮以太
         </td>
       </tr>
     </table>
@@ -45,7 +45,7 @@
     <table>
       <tr>
         <td>Days Active</td>
-        <td>180</td>
+        <td>181</td>
       </tr>
       <tr>
         <td>Total Avatar</td>
@@ -69,7 +69,7 @@
         <td>
           <img src="images/icons/stellar_jade.png" height="18" />已賺取星瓊數
         </td>
-        <td>770 (rate -94)</td>
+        <td>910 (rate -93)</td>
       </tr>
       <tr>
         <td>
@@ -83,8 +83,8 @@
       <tr>
         <td>類別</td>
         <td>
-          郵件獎勵: 360 (46%)<br />每日活躍: 300 (38%)<br />模擬宇宙獎勵: 110
-          (14%)<br />其他: 0 (2%)<br />活動獎勵: 0 (0%)<br />冒險獎勵: 0 (0%)<br />忘卻之庭獎勵:
+          每日活躍: 420 (46%)<br />郵件獎勵: 380 (41%)<br />模擬宇宙獎勵: 110
+          (12%)<br />其他: 0 (1%)<br />活動獎勵: 0 (0%)<br />冒險獎勵: 0 (0%)<br />忘卻之庭獎勵:
           0 (0%)<br />
         </td>
       </tr>
@@ -2518,7 +2518,7 @@
   </summary>
   <div align="center">
     <h2>個人檔案</h2>
-    <img src="images/profile/genshin_profile_06_11_2023-08_55_22.png" />
+    <img src="images/profile/genshin_profile_07_11_2023-08_54_03.png" />
   </div>
   <div align="center">
     <h2>
@@ -2527,17 +2527,17 @@
     <table>
       <tr>
         <td>已領取總獎勵</td>
-        <td>6</td>
+        <td>7</td>
       </tr>
       <tr>
         <td>上次領取獎勵</td>
         <td>
-          2 x
+          8000 x
           <img
-            src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+            src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
             height="20"
           />
-          冒險家的經驗
+          摩拉
         </td>
       </tr>
     </table>
@@ -2989,7 +2989,7 @@
           />
           已賺取原石數
         </td>
-        <td>675 (rate -89)</td>
+        <td>735 (rate -88)</td>
       </tr>
       <tr>
         <td>
@@ -2999,12 +2999,12 @@
           />
           已賺取摩拉數
         </td>
-        <td>287786 (rate -95)</td>
+        <td>387429 (rate -93)</td>
       </tr>
       <tr>
         <td>類別</td>
         <td>
-          信件: 350 (52%)<br />每日活躍: 300 (45%)<br />冒險: 25 (3%)<br />活動:
+          每日活躍: 360 (49%)<br />信件: 350 (48%)<br />冒險: 25 (3%)<br />活動:
           0 (0%)<br />深境螺旋: 0 (0%)<br />任務: 0 (0%)<br />其他: 0 (0%)<br />
         </td>
       </tr>
@@ -7630,26 +7630,26 @@
 <h2 align="center">原神角色展示</h2>
 <details align="center">
   <summary>Showcase 1</summary>
-  <img src="images/showcase/genshin_card_06_11_2023-08_54_58.png" />
+  <img src="images/showcase/genshin_card_07_11_2023-08_53_40.png" />
 </details>
 <details align="center">
   <summary>Showcase 2</summary>
-  <img src="images/showcase/genshin_card_06_11_2023-08_54_59.png" />
+  <img src="images/showcase/genshin_card_07_11_2023-08_53_41.png" />
 </details>
 <h2 align="center">星鐵角色展示</h2>
 <details align="center">
   <summary>SilverWolf</summary>
-  <img src="images/showcase/Silver_Wolf_06_11_2023-08_55_36.png" />
+  <img src="images/showcase/Silver_Wolf_07_11_2023-08_54_17.png" />
 </details>
 <details align="center">
   <summary>DanHeng</summary>
-  <img src="images/showcase/Dan_Heng_06_11_2023-08_55_36.png" />
+  <img src="images/showcase/Dan_Heng_07_11_2023-08_54_17.png" />
 </details>
 <details align="center">
   <summary>Seele</summary>
-  <img src="images/showcase/Seele_06_11_2023-08_55_37.png" />
+  <img src="images/showcase/Seele_07_11_2023-08_54_18.png" />
 </details>
 <details align="center">
   <summary>Asta</summary>
-  <img src="images/showcase/Asta_06_11_2023-08_55_37.png" />
+  <img src="images/showcase/Asta_07_11_2023-08_54_18.png" />
 </details>
